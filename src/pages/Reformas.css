@@ -1,0 +1,109 @@
+.imgSuperior {
+  justify-content: center;
+}
+.imgSuperior p {
+  text-align: center;
+}
+.projectsSpace {
+  display: flex;
+  justify-content: space-around;
+  align-content: center;
+  flex-wrap: wrap;
+  margin-bottom: 2%;
+}
+.projecto1 {
+  width: 45%;
+  margin-top: 5%;
+  margin-left: 2%;
+  margin-right: 2%;
+  text-align: center;
+}
+.projecto1 p {
+  margin-top: 10%;
+}
+.reformasImg1,
+.reformasImg2,
+.reformasImg3,
+.reformasImg4,
+.reformasImg5,
+.reformasImg6 {
+  margin-top: 5%;
+  margin-bottom: 5%;
+  box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+  background-size: cover;
+  height: 400px;
+}
+.reformasImg1 {
+  background-image: url("/public/Imagenes/1Fachadas.jpg");
+}
+.reformasImg2 {
+  background-image: url("/public/Imagenes/2PInt.jpg");
+}
+.reformasImg3 {
+  background-image: url("/public/Imagenes/3RefEstruct.jpg");
+}
+.reformasImg4 {
+  background-image: url("/public/Imagenes/4Cubiertas.jpg");
+}
+.reformasImg5 {
+  background-image: url("/public/Imagenes/5RefInt.jpg");
+}
+.reformasImg6 {
+  background-image: url("/public/Imagenes/6Retail.jpg");
+}
+
+@media only screen and (max-device-width: 370px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait) {
+  .imgSuperior p {
+    font-size: 30px;
+  }
+  .projectsSpace {
+    display: block;
+  }
+  .projectsSpace p {
+    font-size: 14px;
+  }
+
+  .projecto1,
+  .projecto2,
+  .projecto3,
+  .projecto4,
+  .projecto5,
+  .projecto6 {
+    width: 84%;
+  }
+  .reformasImg1,
+  .reformasImg2,
+  .reformasImg3,
+  .reformasImg4,
+  .reformasImg5,
+  .reformasImg6 {
+    height: 250px;
+    margin-bottom: 30px;
+  }
+}
+@media only screen and (min-device-width: 375px) and (max-device-width: 428px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait) {
+  .imgSuperior p {
+    font-size: 30px;
+  }
+  .projectsSpace {
+    display: block;
+  }
+  .projecto1,
+  .projecto2,
+  .projecto3,
+  .projecto4,
+  .projecto5,
+  .projecto6 {
+    width: 84%;
+  }
+
+  .reformasImg1,
+  .reformasImg2,
+  .reformasImg3,
+  .reformasImg4,
+  .reformasImg5,
+  .reformasImg6 {
+    height: 250px;
+    margin-bottom: 30px;
+  }
+}

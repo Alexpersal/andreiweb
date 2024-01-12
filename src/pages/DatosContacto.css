@@ -1,0 +1,94 @@
+.phone,
+.mail,
+.position {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.phone {
+  margin-left: 25px;
+  margin-right: 10%;
+}
+
+.position {
+  margin-right: 25px;
+}
+
+.phone a,
+.mail a,
+.position p {
+  text-decoration: none;
+  color: var(--myWhite);
+  font-size: 18px;
+}
+@media only screen and (max-device-width: 370px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait) {
+  .phone a,
+  .mail a,
+  .position p {
+    font-size: 12px;
+  }
+
+  .phone {
+    margin-left: 5%;
+    margin-right: 0px;
+  }
+  .mail {
+    margin-left: 9%;
+    margin-right: 0px;
+  }
+  .position {
+    width: 100%;
+  }
+}
+@media only screen and (min-device-width: 375px) and (max-device-width: 428px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait) {
+  .phone a,
+  .mail a,
+  .position p {
+    font-size: 12px;
+  }
+
+  .phone {
+    margin-left: 5%;
+    margin-right: 0px;
+  }
+  .mail {
+    margin-left: 19%;
+    margin-right: 0px;
+  }
+  .position {
+    width: 100%;
+  }
+}
+@media only screen and (min-device-width: 375px) and (max-device-width: 428px) and (-webkit-min-device-pixel-ratio: 3) and (orientation: portrait) {
+  .phone a,
+  .mail a,
+  .position p {
+    font-size: 12px;
+  }
+
+  .phone {
+    margin-left: 5%;
+    margin-right: 0px;
+  }
+  .mail {
+    margin-left: 19%;
+    margin-right: 0px;
+  }
+  .position {
+    width: 100%;
+  }
+}
+/*mobile Landscape */
+@media only screen and (max-device-width: 926px) and (max-device-height: 428px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: landscape) {
+  .phone a,
+  .mail a,
+  .position p {
+    font-size: 14px;
+  }
+}
+
+@media only screen and (min-device-width: 428px) and (max-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait) {
+  .phone {
+    margin-right: 0px;
+  }
+}
