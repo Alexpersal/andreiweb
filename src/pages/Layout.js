@@ -1,5 +1,6 @@
 import Logo from "../logo320x100.jpg";
 import { Outlet, Link } from "react-router-dom";
+//import DatosContacto from "./DatosContacto";
 import DatosContacto from "./DatosContacto";
 
 import React from "react";

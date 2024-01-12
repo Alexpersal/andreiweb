@@ -1,4 +1,5 @@
 import "./DatosContacto.css";
+//npm install @react-icons/all-files --save
 import { BsFillGeoFill, BsFillTelephoneFill } from "react-icons/bs";
 import { HiMail } from "react-icons/hi";
 
