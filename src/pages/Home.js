@@ -9,11 +9,12 @@ import casaSteelFrame from "../casaSteelFrame.jpg";
 
 function Home() {
   // eslint-disable-next-line react-hooks/exhaustive-deps
-  const imagenes = [img3, img2, img1];
+  const imagenes = [img3, img2, img1, img2];
   const frases = [
-    "Realizamos reformas",
     "Construcción sostenible",
-    "Obra civil",
+    "Viviendas a medida",
+    "Tu proyecto, nuestra pasión",
+    "Reformas integrales viviendas",
   ];
 
   const [posicion, setPosicion] = useState(0);
@@ -49,19 +50,20 @@ function Home() {
         </div>
       </div>
       <div className="texto-Home">
-        <h1>
-          Contamos con dilatada experiencia en la rehabilitación de edificios,
-          fachadas y reformas en Barcelona, ya sean estas últimas en proyectos
-          de interiorismo para viviendas, remodelación de oficinas o retail.{" "}
-          <br></br>Empresa afincada en Barcelona, dedicada a la construcción
-          desde el año 2005 y con especialización contrastada desde hace más de
-          3 años en la construcción de obra nueva más sostenible y eficiente,
-          ofreciendo la última tecnología en sistemas constructivos, mediante el
-          sistema Steel Frame. Si quieres que te acompañemos en el proceso de
-          hacer realidad todos tus proyectos, no dudes en contactar con
-          nosotros, estaremos encantados de poder ser partícipe en cada uno de
-          ellos.
-        </h1>
+        <h2>
+          En bentsa nos dedicamos a la construcción industrializada y sostenible
+          desde hace más de 15 años. Nuestra especialidad es el sistema Steel
+          Frame, que nos permite crear viviendas unifamiliares y plurifamiliares
+          de alta calidad y bajo impacto ambiental.<br></br> Para ello, contamos
+          con un equipo propio de operarios expertos en cada fase de la obra, y
+          con un equipo de técnicos colaboradores que nos apoyan en el estudio y
+          el diseño de los proyectos. <br></br>Además, también hacemos reformas
+          y rehabilitaciones de todo tipo, trabajando con promotores y
+          administradores de fincas de confianza. <br></br>
+          <br></br>¿Tienes un proyecto en mente? <br></br>
+          <br></br>Pues no lo dejes pasar y contacta con nosotros. Estamos
+          deseando escucharte y ayudarte a hacerlo realidad.
+        </h2>
       </div>
       <div className="contenedor-proyectos">
         <div className="contenedor-proyectos-reformas-descripcion">
@@ -77,36 +79,37 @@ function Home() {
             ></img>
           </Link>
           <div className="contenedor-proyectos-reformas-textos">
-            <h2>REFORMAS</h2>
+            <h2>VIVIENDAS INDUSTRIALIZADAS</h2>
             <p>
-              Trabajamos con criterios de responsabilidad ambiental, ofreciendo
-              soluciones constructivas eficientes en el uso de recursos,
-              sostenibles, saludables y con máximas prestaciones. Queremos
-              ofrecer una nueva experiencia a aquellos clientes que han decidido
-              emprender un nuevo proyecto constructivo, creando y dando valor a
-              esta importante decisión, trabajamos juntos en la personalización
-              de los espacios del proyecto para conseguir un edificio
-              SOSTENIBLE, SALUDABLE y ENERGETICAMENTE EFICIENTE adecuado a sus
-              necesidades.
+              En BENTSA sabemos que hacer realidad tu proyecto, alcanzar tu
+              sueño y se ajuste a tus necesidades, no es fácil. Por eso, te
+              ofrecemos nuestro apoyo, nuestra profesionalidad y nuestra
+              experiencia en cada paso del proceso. Nos gusta adaptarnos a ti, a
+              tu caso y a tus estilo de vida. Queremos que vivas una experiencia
+              positiva y que disfrutes del resultado final. Por eso, buscamos
+              siempre las mejores tecnologías, soluciones y sistemas
+              constructivos, que respeten el medio ambiente, que sean
+              sostenibles y que se ajusten a tu presupuesto. Tus proyectos son
+              nuestra pasión, y estamos deseando hacerlos realidad. Contacta con
+              nosotros y te sorprenderemos.
             </p>
           </div>
         </div>
         <div className="contenedor-proyectos-casas-descripcion">
           <div className="contenedor-proyectos-casas-textos">
-            <h2>CASAS</h2>
+            <h2>REFORMAS INTEGRALES</h2>
             <p>
-              Nuestro principal objetivo es facilitar, acompañar y realizar de
-              la manera más satisfactoria, el duro camino que representa
-              cualquier tipo de obra y rehabilitación. Somos versátiles,
-              polivalentes y flexibles, nos adaptamos siempre a cada caso y a
-              las necesidades que tienen nuestros clientes. Para nosotros es
-              importante la experiencia del cliente en todo el proceso
-              constructivo. Intentamos siempre estar a la vanguardia de nuevas
-              tecnologías, soluciones y sistemas constructivos que nos ayuden a
-              realizar los proyectos, teniendo en cuenta aspectos tan
-              importantes como la ecología, la sostenibilidad y la inversión
-              económica de las obras. Tus proyectos son nuestra pasión, no dudes
-              en contactar con nosotros
+              En BENTSA nos preocupamos por el medio ambiente y por tu bienestar
+              sin dejar de un lado la calidad y los resultados deseados. Por
+              eso, te ofrecemos las mejores soluciones para reformar tu casa o
+              tu negocio, aprovechando al máximo los recursos, cuidando el
+              ecosistema y garantizando la exceléncia. Deja en nuestras manos tu
+              nuevo proyecto, te acompañaremos en todo el proceso, desde el
+              diseño hasta la ejecución, para que tu espacio se adapte a tus
+              gustos y necesidades. Así, conseguirás un espacio que respete el
+              planeta, que te haga sentir bien y que ahorre energía. ¿A qué
+              esperas? ¡Contacta con nosotros y te daremos un presupuesto sin
+              compromiso!”
             </p>
           </div>
           <Link

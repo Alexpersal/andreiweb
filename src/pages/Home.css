@@ -53,7 +53,7 @@
   text-align: center;
   margin-top: 50px;
 }
-.texto-Home h1 {
+.texto-Home h2 {
   font-size: 30px;
 }
 .contenedor-proyectos {
@@ -111,7 +111,7 @@
     top: 52%;
     font-size: 40px;
   }
-  .texto-Home h1 {
+  .texto-Home h2 {
     font-size: 22px;
   }
   .contenedor-proyectos p {
@@ -154,7 +154,7 @@
     top: 52%;
     font-size: 40px;
   }
-  .texto-Home h1 {
+  .texto-Home h2 {
     font-size: 22px;
   }
 
@@ -207,7 +207,7 @@
     top: 75%;
     font-size: 30px;
   }
-  .texto-Home h1 {
+  .texto-Home h2 {
     font-size: 22px;
   }
   .contenedor-proyectos p {

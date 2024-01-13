@@ -9,11 +9,11 @@ export default function Reformas() {
     <>
       <div class="imgSuperior">
         <h1>
-          Rehabilitación de Fachadas
+          Proyectos realizados
           <br />
-          Reformas integrales de viviendas
+          de vivienda industrializada
           <br />
-          Barcelona ciudad y Provincia
+          en Barcelona
         </h1>
       </div>
       <div class="projectsSpace">

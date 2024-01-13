@@ -8,7 +8,10 @@ export default function CasasEco() {
   return (
     <>
       <div class="imgSuperior">
-        <p>Construcción casas ecológicas</p>
+        <h1>
+          Construcción casas industrializadas <br />
+          Ecosostenibles en Barcelona
+        </h1>
       </div>
       <div class="projectsSpace">
         <div className="casasTerminadas">

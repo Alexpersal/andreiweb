@@ -9,8 +9,11 @@ code {
   font-family: "Roboto Condensed", sans-serif;
 }
 :root {
-  --myOrange: #fe5000;
+  --myOrange: #b3e0f2;
   --myGreen: #7dbe16;
-  --myBlack: #1a1a1a;
-  --myWhite: #ffffff;
+  --myGrey: #52616b;
+  /*--myWhite: #52616b;*/
+  --myWhite: #ebeff2;
+  /*--myWhite: #ffffff;*/
+  /*--myOrange: #fe5000;*/
 }

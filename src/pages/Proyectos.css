@@ -47,7 +47,7 @@
 }
 
 @media only screen and (max-device-width: 370px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait) {
-  .imgSuperior p {
+  .imgSuperior h1 {
     font-size: 30px;
   }
   .projectsSpace {
@@ -76,7 +76,7 @@
   }
 }
 @media only screen and (min-device-width: 375px) and (max-device-width: 428px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait) {
-  .imgSuperior p {
+  .imgSuperior h1 {
     font-size: 30px;
   }
   .projectsSpace {
