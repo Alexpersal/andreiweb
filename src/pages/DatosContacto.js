@@ -10,12 +10,12 @@ export default function DatosContacto() {
         <BsFillTelephoneFill
           style={{ fontSize: "28px", marginRight: "10px" }}
         ></BsFillTelephoneFill>
-        <a href="+34722109491">+34722109491</a>
+        <a href="+34632903696">+34632903696</a>
       </div>
       <div className="mail">
         <HiMail style={{ fontSize: "28px", marginRight: "10px" }}></HiMail>
-        <a href="mailto:miguel.grupcalvo@hotmail.com">
-          miguel.grupcalvo@hotmail.com
+        <a href="mailto:obrasintegralesbentsa@gmail.com">
+          obrasintegralesbentsa@gmail.com
         </a>
       </div>
       <div className="position">
@@ -23,8 +23,8 @@ export default function DatosContacto() {
           style={{ fontSize: "28px", marginRight: "10px" }}
         ></BsFillGeoFill>
         <p>
-          Carrer Pep Ventura 8 - 08640 <br />
-          Olesa de Montserrat, Barcelona
+          carrer Florida 35 - 08242 <br />
+          Manresa, Barcelona
         </p>
       </div>
     </>

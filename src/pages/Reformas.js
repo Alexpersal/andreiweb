@@ -21,47 +21,44 @@ export default function Reformas() {
           <h3>REFORMAS INTERIORES DE VIVIENDAS</h3>
           <div class="reformasImg5"></div>
           <p>
-            Contamos con un equipo cualificado que se encarga de ejecutar los
-            proyectos de la manera más eficiente posible, tanto en tiempo como
-            en forma . <br></br>
-            Le acompañamos en todo el proceso, desde la conceptualización de la
-            reforma hasta la entrega de llaves a su finalización. Nuestros
-            técnicos le podrán realizar propuestas de interiorismo y si lo desea
-            la confección de planos e imágenes realistas para que en todo
-            momento sepa cómo será su futura vivienda, incluso antes de empezar
-            la obra.
+            Contamos con un equipo de profesionales que hará realidad la reforma
+            de sus sueños, con rapidez y calidad.<br></br>
+            Estaremos constantemente a su lado en todo el proceso, desde la
+            conceptualización del proyecto de reforma, hasta que le entreguemos
+            las llaves de su nuevo hogar. Le ofreceremos sugerencias de diseño y
+            decoración, y si lo desea, proyectaremos planos e imágenes en fase
+            de estudio antes de comenzar cualquier obra, le harán sentir como si
+            ya estuviera viviendo en su hogar ideal.
           </p>
         </div>
         <div class="projecto1">
           <h3>RETAIL RESTAURACIÓN Y OFICINAS</h3>
           <div class="reformasImg6"></div>
           <p>
-            Tenemos gran experiencia en este tipo de trabajos cumpliendo con sus
-            pliegues de condiciones en cada caso. Hemos realizado tiendas tanto
-            en plantas bajas de edificios plurifamiliares como en centros
-            comerciales acogiéndonos a sus condiciones y demandas. Nos adaptamos
-            a cualquier tipo de necesidad del cliente, realizando trabajos
-            nocturnos para no afectar el buen funcionamiento de la actividad en
-            cuestión. Tenemos un técnico en plantilla que organiza y dirige todo
-            el proceso y sus oficios, que junto a nuestra red de expertos
-            colaboradores para los trabajos más específicos, conseguimos
-            excelentes resultados y acabados.
+            Tenemos una larga trayectoria en el sector, haciendo realidad
+            proyectos de reforma integral de oficinas y restauración, con la
+            máxima calidad y garantía. Hemos trabajado tanto en locales
+            comerciales en edificios de viviendas como en centros comerciales,
+            respetando siempre las normas y requisitos de cada lugar. Sabemos
+            que cada cliente es único, y por eso nos adaptamos a tus
+            preferencias y horarios, incluso trabajando de noche si es necesario
+            para no interrumpir tu actividad. Disponemos de un equipo técnico
+            que se encarga de planificar y supervisar todo el trabajo, y que
+            cuenta con el apoyo de una red de colaboradores especializados en
+            cada área, para asegurar unos resultados y acabados impecables.
           </p>
         </div>
         <div class="projecto1">
           <h3>REHABILITACIONES DE FACHADAS</h3>
           <div class="reformasImg1"></div>
           <p>
-            Rehabilitamos todo tipo de fachadas, abarcando todas aquellas
-            técnicas que nos avalan para desarrollar las intervenciones que
-            corresponden a cada tipo de fachada, ( fachadas ventiladas,
-            revestimientos, sistema SATE, aplacados de piedra artificial,
-            porcelánicos, morteros a la cal o convencionales ... ). <br></br>En
-            GRUP JCMA CALVO, sabemos que la calidad no es una opción, sino una
-            obligación, por ello siempre cumplimos estrictamente con todas las
-            medidas de Seguridad pertinentes, reflejadas en el Plan de Seguridad
-            supervisado por nuestros técnicos especializados y por la Dirección
-            Facultativa responsable del proyecto.
+            En BENTSA, nos dedicamos a la rehabilitación de fachadas, utilizamos
+            las mejores técnicas y materiales para cada tipo de fachada, ya sea
+            ventilada, revestida, aislada, de piedra, de porcelana o de mortero.
+            Nuestro compromiso con la calidad nos lleva a seguir rigurosamente
+            todas las normas de seguridad, bajo la supervisión de nuestros
+            expertos y la dirección del proyecto. Queremos que tu fachada luzca
+            como nueva, con un diseño moderno, funcional y sostenible.
           </p>
         </div>
 
@@ -69,44 +66,54 @@ export default function Reformas() {
           <h3>CUBIERTAS</h3>
           <div class="reformasImg4"></div>
           <p>
-            Las intervenciones en las cubiertas de los edificios son muy
-            diversas y nosotros, en nuestra dilatada experiencia de más de 18
-            años que nos avalan, hemos podido realizar cada una de ellas. Desde
-            la restauración total mediante la impermeabilización con los
-            distintos materiales homologados, empezando por los más
-            tradicionales como la tela asfáltica o la auto protegida hasta los
-            más innovadores como las imprimaciones de poliuretanos o la
-            poliurea. Realizamos cubiertas invertidas y tradicionales
-            consiguiendo el aislamiento térmico deseado.
+            Llevamos más de 18 años en el sector, y hemos realizado todo tipo de
+            proyectos, nos dedicamos a la rehabilitación de cubiertas y tejados
+            con pasión y profesionalidad, hemos realizado todo tipo de
+            proyectos, adaptándonos a las necesidades y preferencias de cada
+            cliente. Ofrecemos soluciones integrales de impermeabilización, con
+            materiales de calidad y garantía, desde los más clásicos como la
+            tela asfáltica o la auto protegida, hasta los más modernos como las
+            imprimaciones de poliuretanos o la poliurea. Además, realizamos
+            cubiertas invertidas y tradicionales, que aseguran un óptimo
+            aislamiento térmico y un menor consumo energético. Nuestro objetivo
+            es que tu cubierta o tejado quede como nuevo, y que tú quedes
+            satisfecho con el resultado.
           </p>
         </div>
         <div class="projecto1">
           <h3>PATIOS INTERIORES</h3>
           <div class="reformasImg2"></div>
           <p>
-            Los trabajos en patios interiores, se ejecutan mediante diferentes
-            técnicas específicas o combinadas, dependiendo de la complejidad de
-            cada caso en particular, ya sea con estructuras andamio tubular,
-            puente colgante o trabajos verticales. Cualquiera que sea su
-            necesidad, estaremos ahí para ayudarle a solucionar complejos
-            trabajos como pueden ser cambios de bajantes, montantes de agua y
-            gas con certificado, reparaciones en paramentos, cosido de grietas,
-            aplicación de morteros especiales de reparación, trabajos de
-            pintura, sustitución de claraboyas ...
+            ¿Quieres que tu patio interior luzca como nuevo? En BENTSA somos
+            expertos en la rehabilitación y el mantenimiento de patios
+            interiores en edificios. Nos adaptamos a las características y
+            necesidades de cada proyecto, utilizando las técnicas más adecuadas
+            y seguras, ya sea con andamios, puentes colgantes o trabajos en
+            altura. Te ofrecemos soluciones integrales para mejorar el aspecto y
+            la funcionalidad de tu patio interior, desde la sustitución de
+            tuberías de agua y gas con garantía, hasta la reparación de grietas,
+            el pintado de paredes o el cambio de claraboyas.
           </p>
         </div>
         <div class="projecto1">
           <h3>REFUERZOS ESTRUCTURALES</h3>
           <div class="reformasImg3"></div>
           <p>
-            Realizamos todo tipo de refuerzos estructurales según dictámenes de
-            la Dirección Facultativa. Desde los sistemas tradicionales hasta los
-            más actuales tipo Mecanoviga, Cointecs o similares, así como
-            actuaciones en todo tipo de patología estructural (aluminosis,
-            desintegración de vigas de madera, oxidación vigas metálicas etc. )
-            Al tratarse de trabajos especialmente delicados, los realizamos
-            siempre siguiendo las indicaciones de arquitectos especializados y
-            respetando escrupulosamente todas las medidas de seguridad,
+            A veces es necesario realizar intervenciones correctivas en
+            edificios o viviendas causadas por diversos tipos de patologías,
+            nosotros nos dedicamos a reforzar sus estructuras, para que sean más
+            seguras, resistentes y duraderas. Utilizamos las mejores técnicas y
+            materiales del mercado, adaptándonos a las necesidades y
+            preferencias de cada cliente. Ya sea con sistemas tradicionales o
+            con los más innovadores como Mecanoviga, Cointecs o similares,
+            podemos solucionar cualquier problema estructural que afecte a tu
+            inmueble, como aluminosis, vigas de madera deterioradas, vigas
+            metálicas oxidadas, etc. Somos un equipo de profesionales
+            cualificados, que trabajamos bajo la supervisión de arquitectos
+            expertos y cumpliendo con todas las normas de seguridad. Además, nos
+            preocupamos por el medio ambiente y buscamos minimizar el impacto de
+            nuestras intervenciones en el entorno. <br></br>Confía en nosotros y
+            verás cómo tu vivienda o edificio gana en calidad, confort y valor.
           </p>
         </div>
       </div>

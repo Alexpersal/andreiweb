@@ -24,61 +24,83 @@ export default function CasasEco() {
             <div class="casasImg2"></div>
           </div>
           <p>
-            Los proyectos que llevamos a cabo, son totalmente personalizados y
-            exclusivos, mediante este sistema de construcción, no hay límites a
-            la hora de diseñar su nuevo hogar, usted nos propone sus ideas y
-            nosotros nos encargamos de hacerla realidad. Contamos con un equipo
-            de arquitectos, ingenieros y diseñadores que le acompañarán durante
-            todo el proceso, para ayudarle, aconsejarle y darle respuesta a sus
-            necesidades. Nuestros presupuestos son llaves en mano incluyendo
-            todo tipo de equipamientos (horno, placa inducción, sanitarios,
-            griferías …) y acabados según memoria de calidades que se entrega
-            junto con presupuesto. Cualquier cambio propuesto por el cliente
-            para nosotros no es un problema, es un desafío al que llegar para
-            poder entregarle su nueva vivienda eficiente energéticamente,
-            respetuosa con el medio ambiente y con todo lujo de acabados.
+            Creamos viviendas prefabricadas unifamiliares con un sistema
+            innovador y ecológico: <br></br>
+            <br></br>Steelframe. <br></br>
+            <br></br>Con este método, podemos adaptarnos a tus gustos y
+            preferencias, sin importar lo que sueñes para tu nuevo hogar. Tú nos
+            cuentas cómo lo quieres y nosotros lo hacemos realidad. En este tipo
+            de viviendas, la construcción de ésta es mucho menor en comparación
+            a la construcción tradicional, lo que se traducirá en un ahorro de
+            costes y molestias, cumpliendo en todo momento con todas las
+            normativas, garantías de calidad y seguridad. Además, tendrás el
+            apoyo de un equipo profesional y experimentado de arquitectos,
+            ingenieros y diseñadores, que te asesorarán y resolverán todas tus
+            dudas en cada paso del proyecto. Nuestras viviendas incluyen todo lo
+            que necesitas para vivir cómodamente: equipamientos de calidad
+            (horno, placa inducción, sanitarios, griferías …) y acabados de
+            lujo. Y si quieres hacer algún cambio, no te preocupes: para
+            nosotros, cada reto es una oportunidad de mejorar y satisfacer tus
+            expectativas. Así, te entregaremos una vivienda eficiente,
+            sostenible y personalizada, que hará realidad tus sueños. <br></br>
+            Tu casa será eficiente en términos de energía, lo que te ayudará a
+            ahorrar en tus facturas y a reducir tu huella de carbono. En
+            resumen, construimos casas que son perfectas para ti y para el
+            planeta. <br></br>
+            <br></br>¿Estás listo para empezar a construir tus sueños con
+            nosotros?
           </p>
         </div>
         <div class="sistema-Constructivo">
           <h3>ESTRUCTURA DE ACERO GALVANIZADO. </h3>
           <div class="casasImg3"></div>
           <p>
-            El sistema constructivo que llevamos a cabo para la construcción de
-            viviendas unifamiliares aisladas, está formado principalmente por
-            una estructura de acero galvanizado reciclado, se fabrica
-            exclusivamente para cada cliente y adaptándose a la perfección al
-            diseño y requisitos deseados. Dicha estructura, una vez finalizado
-            su montaje, conformará el esqueleto de la vivienda. El posterior
-            aplacado exterior en la totalidad de la estructura mediante varias
-            capas de material técnico y aislamientos ( tablero OSB, sistema
-            sate, revestimientos ... ) que junto a la cimentación realizada en
-            los trabajos iniciales, conformará el cálido, confortable y robusto
-            cuerpo para nuestra nueva vivienda. El sellado del perímetro
-            interior, se realiza mediante trasdosados de PYL o Drywall,
-            colocando más material aislante entre la parte exterior y ésta
-            interior. El resultado obtenido de todas estas capas, se traduce en
-            certificaciones energética del más alto nivel, como es la de tipo A
-            o incluso pudiendo llegar a certificaciones de Passive house.
+            Utilizamos un sistema constructivo basado en acero galvanizado
+            reciclado, diseñado exclusivamente para ti, adaptándose a tus deseos
+            y necesidades. Imagina que tu casa es como un cuerpo humano.{" "}
+            <br></br>La estructura de acero es el esqueleto, fuerte y
+            resistente, que sostiene todo. Una vez montada, cubrimos esta
+            estructura con varias capas de materiales técnicos y aislantes, como
+            el tablero OSB y el sistema sate, que conforman la piel de la casa.{" "}
+            <br></br>Esta piel, junto con la cimentación que se realiza en los
+            trabajos iniciales, crea un cuerpo cálido, confortable y robusto
+            para tu nuevo hogar. Pero no nos detenemos ahí. <br></br>Sellamos el
+            interior de la casa con trasdosados de PYL o Drywall, añadiendo más
+            material aislante entre el exterior y el interior. Esto asegura que
+            tu casa esté bien aislada y sea energéticamente eficiente. <br></br>
+            El resultado de todo este trabajo es una casa que no solo es hermosa
+            y cómoda, sino también respetuosa con el medio ambiente. <br></br>
+            Nuestras casas obtienen las certificaciones energéticas más altas,
+            como la de tipo A, e incluso pueden llegar a obtener certificaciones
+            de Passive house.
           </p>
         </div>
         <div class="sistema-Constructivo">
           <h3>MEJORAS SEGÚN PRESUPUESTO INICIAL. </h3>
           <div class="casasImg4"></div>
           <p>
-            Ofrecemos todo tipo de mejoras constructivas en su vivienda para
-            conseguir un confort interior superior. En fase de cimentación, la
-            formación de un forjado sanitario a base de casetones prefabricados
-            garantiza un excelente asilamiento a la vivienda al no contactar con
-            el subsuelo y poder conducir la red de saneamiento por la cámara que
-            forman estos los casetones. En instalaciones incluimos en
-            presupuesto inicial el sistema Aerotermia para ACS combinándolo si
-            lo desea junto la climatización mediante bomba de calor por
-            conductos, suelo radiante o radiadores. Las placas fotovoltaicas
-            también está a la orden del día y nosotros procedemos a su
-            instalación garantizando un ahorro en la factura eléctrica, dejando
-            amortizada a medio plazo dicha instalación. No ponemos límite a la
-            hora de proporcionar soluciones a las necesidades de nuestros
-            clientes más exigentes.
+            En nuestra empresa, nos dedicamos a hacer realidad los sueños de
+            tener un hogar perfecto. Nos enfocamos en la construcción de
+            viviendas prefabricadas unifamiliares utilizando el sistema
+            constructivo de steelframe, garantizando un hogar cómodo y seguro.
+            Durante la fase de cimentación, utilizamos casetones prefabricados
+            para formar un forjado sanitario. Este método asegura un excelente
+            aislamiento para su hogar, ya que evita el contacto directo con el
+            subsuelo. Además, permite una fácil instalación de la red de
+            saneamiento. Pensando en su comodidad, incluimos en nuestro
+            presupuesto inicial el sistema de Aerotermia para Agua Caliente
+            Sanitaria (ACS). Este sistema puede ser combinado, si así lo desea,
+            con climatización mediante bomba de calor por conductos, suelo
+            radiante o radiadores. Conscientes de la importancia de cuidar el
+            medio ambiente y de la necesidad de ahorrar en la factura eléctrica,
+            ofrecemos la instalación de placas fotovoltaicas. Esta inversión se
+            amortiza a medio plazo, lo que se traduce en un ahorro significativo
+            para usted. Nuestro compromiso es satisfacer las necesidades de
+            nuestros clientes más exigentes, sin poner límites a las soluciones
+            que podemos proporcionar. Porque para nosotros, su hogar es mucho
+            más que una construcción, es el lugar donde se construyen sueños y
+            se crean recuerdos.<br></br>
+            <br></br> ¡Permítanos ser parte de su sueño!
           </p>
         </div>
       </div>

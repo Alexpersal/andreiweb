@@ -17,8 +17,24 @@ export default function Reformas() {
         </h1>
       </div>
       <div class="projectsSpace">
+        <div className="texto-Home">
+          <h2>
+            Aquí podrás ver algunos ejemplos de las viviendas unifamiliares
+            prefabricadas con sistema constructivo Steelframe que hemos
+            construido, puedes visitar nuestra galería de proyectos, donde
+            encontrarás imágenes y descripciones de cada uno de ellos. Te
+            sorprenderás de la variedad y la belleza de estas viviendas, que
+            combinan el diseño y la funcionalidad con el respeto por el entorno.
+            No lo dudes más y contacta con nosotros para solicitar un
+            presupuesto sin compromiso. Te asesoraremos y te ayudaremos a crear
+            la vivienda de tus sueños, con la mejor relación calidad-precio del
+            mercado. Estamos seguros de que quedarás satisfecho con nuestro
+            trabajo y con tu nueva vivienda unifamiliar prefabricada con sistema
+            constructivo Steelframe.
+          </h2>
+        </div>
         <div class="projecto1">
-          <h3>REFORMAS INTERIORES DE VIVIENDAS</h3>
+          <h3>VIVIENDA UNIFAMILIAR 1</h3>
           <div class="reformasImg5"></div>
           <p>
             Contamos con un equipo cualificado que se encarga de ejecutar los
@@ -33,7 +49,7 @@ export default function Reformas() {
           </p>
         </div>
         <div class="projecto1">
-          <h3>RETAIL RESTAURACIÓN Y OFICINAS</h3>
+          <h3>VIVIENDA UNIFAMILIAR 2</h3>
           <div class="reformasImg6"></div>
           <p>
             Tenemos gran experiencia en este tipo de trabajos cumpliendo con sus
@@ -49,7 +65,7 @@ export default function Reformas() {
           </p>
         </div>
         <div class="projecto1">
-          <h3>REHABILITACIONES DE FACHADAS</h3>
+          <h3>VIVIENDA UNIFAMILIAR 3</h3>
           <div class="reformasImg1"></div>
           <p>
             Rehabilitamos todo tipo de fachadas, abarcando todas aquellas
@@ -66,7 +82,7 @@ export default function Reformas() {
         </div>
 
         <div class="projecto1">
-          <h3>CUBIERTAS</h3>
+          <h3>VIVIENDA UNIFAMILIAR 4</h3>
           <div class="reformasImg4"></div>
           <p>
             Las intervenciones en las cubiertas de los edificios son muy
@@ -81,7 +97,7 @@ export default function Reformas() {
           </p>
         </div>
         <div class="projecto1">
-          <h3>PATIOS INTERIORES</h3>
+          <h3>VIVIENDA UNIFAMILIAR 5</h3>
           <div class="reformasImg2"></div>
           <p>
             Los trabajos en patios interiores, se ejecutan mediante diferentes
@@ -96,7 +112,7 @@ export default function Reformas() {
           </p>
         </div>
         <div class="projecto1">
-          <h3>REFUERZOS ESTRUCTURALES</h3>
+          <h3>VIVIENDA UNIFAMILIAR 6</h3>
           <div class="reformasImg3"></div>
           <p>
             Realizamos todo tipo de refuerzos estructurales según dictámenes de
