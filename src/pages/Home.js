@@ -1,11 +1,11 @@
 import "./Home.css";
 import React, { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
-import img1 from "../pages/obrasHome.jpg";
-import img2 from "../obrasCasas.jpg";
-import img3 from "../obrasReformas.jpg";
-import imgDisenoInteriores from "../disenoInteriores.webp";
-import casaSteelFrame from "../casaSteelFrame.jpg";
+import img1 from "../pages/obrasHome.webp";
+import img2 from "../pages/obrasCasas.webp";
+import img3 from "../pages/obrasReformas.webp";
+import imgDisenoInteriores from "../pages/disenoInteriores.webp";
+import casaSteelFrame from "../pages/casaSteelFrame.webp";
 
 function Home() {
   // eslint-disable-next-line react-hooks/exhaustive-deps
@@ -51,18 +51,21 @@ function Home() {
       </div>
       <div className="texto-Home">
         <h2>
-          En bentsa nos dedicamos a la construcción industrializada y sostenible
-          desde hace más de 15 años. Nuestra especialidad es el sistema Steel
-          Frame, que nos permite crear viviendas unifamiliares y plurifamiliares
-          de alta calidad y bajo impacto ambiental.<br></br> Para ello, contamos
-          con un equipo propio de operarios expertos en cada fase de la obra, y
-          con un equipo de técnicos colaboradores que nos apoyan en el estudio y
-          el diseño de los proyectos. <br></br>Además, también hacemos reformas
-          y rehabilitaciones de todo tipo, trabajando con promotores y
-          administradores de fincas de confianza. <br></br>
+          En BENTSA nos dedicamos a la{" "}
+          <strong>construcción industrializada y sostenible</strong>
+          desde hace más de 15 años por toda la zona de Cataluña. Nuestra
+          especialidad es el sistema <strong>Steel Frame</strong>, que nos
+          permite crear viviendas unifamiliares y plurifamiliares de alta
+          calidad y de bajo impacto ambiental.<br></br> Contamos con un equipo
+          propio de operarios expertos en cada fase de la obra, y con un equipo
+          de técnicos colaboradores que nos apoyan en el estudio y el diseño de
+          los proyectos. <br></br>Hacemos <strong>reformas</strong>reformas y{" "}
+          <strong>rehabilitaciones</strong>rehabilitaciones de todo tipo,
+          trabajando con promotores y administradores de fincas de confianza,
+          por toda la província de<strong> Barcelona</strong>. <br></br>
           <br></br>¿Tienes un proyecto en mente? <br></br>
-          <br></br>Pues no lo dejes pasar y contacta con nosotros. Estamos
-          deseando escucharte y ayudarte a hacerlo realidad.
+          <br></br>Pues no lo dejes pasar y contacta con nosotros. <br></br>
+          Estamos deseando escucharte y ayudarte a hacerlo realidad.
         </h2>
       </div>
       <div className="contenedor-proyectos">

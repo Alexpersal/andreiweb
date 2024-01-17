@@ -26,23 +26,26 @@ export default function CasasEco() {
           <p>
             Creamos viviendas prefabricadas unifamiliares con un sistema
             innovador y ecológico: <br></br>
-            <br></br>Steelframe. <br></br>
+            <br></br>
+            <strong>SteelFrame.</strong> <br></br>
             <br></br>Con este método, podemos adaptarnos a tus gustos y
             preferencias, sin importar lo que sueñes para tu nuevo hogar. Tú nos
             cuentas cómo lo quieres y nosotros lo hacemos realidad. En este tipo
-            de viviendas, la construcción de ésta es mucho menor en comparación
-            a la construcción tradicional, lo que se traducirá en un ahorro de
-            costes y molestias, cumpliendo en todo momento con todas las
-            normativas, garantías de calidad y seguridad. Además, tendrás el
-            apoyo de un equipo profesional y experimentado de arquitectos,
-            ingenieros y diseñadores, que te asesorarán y resolverán todas tus
-            dudas en cada paso del proyecto. Nuestras viviendas incluyen todo lo
-            que necesitas para vivir cómodamente: equipamientos de calidad
-            (horno, placa inducción, sanitarios, griferías …) y acabados de
-            lujo. Y si quieres hacer algún cambio, no te preocupes: para
-            nosotros, cada reto es una oportunidad de mejorar y satisfacer tus
-            expectativas. Así, te entregaremos una vivienda eficiente,
-            sostenible y personalizada, que hará realidad tus sueños. <br></br>
+            de viviendas, los <strong>tiempos de construcción</strong> de ésta
+            es <strong>mucho menor</strong> en comparación a la construcción
+            tradicional, lo que se traducirá en un{" "}
+            <strong>ahorro de costes y molestias,</strong> cumpliendo en todo
+            momento con todas las normativas, garantías de calidad y seguridad.
+            Además, tendrás el apoyo de un equipo profesional y experimentado de
+            arquitectos, ingenieros y diseñadores, que te asesorarán y
+            resolverán todas tus dudas en cada paso del proyecto. Nuestras
+            viviendas incluyen todo lo que necesitas para vivir cómodamente:
+            equipamientos de calidad (horno, placa inducción, sanitarios,
+            griferías …) y acabados de lujo. Y si quieres hacer algún cambio, no
+            te preocupes: para nosotros, cada reto es una oportunidad de mejorar
+            y satisfacer tus expectativas. Así, te entregaremos una vivienda
+            eficiente, sostenible y personalizada, que hará realidad tus sueños.{" "}
+            <br></br>
             Tu casa será eficiente en términos de energía, lo que te ayudará a
             ahorrar en tus facturas y a reducir tu huella de carbono. En
             resumen, construimos casas que son perfectas para ti y para el

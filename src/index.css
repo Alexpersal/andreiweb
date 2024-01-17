@@ -9,16 +9,14 @@ code {
   font-family: "Roboto Condensed", sans-serif;
 }
 :root {
-  --myOrange: #b3e0f2;
+  --myLowBlue: #b3e0f2;
+  --myOrange: #fe5000;
   --myGreen: #7dbe16;
   --myGrey: #52616b;
-  /*--myWhite: #52616b;*/
+  --myWine: #6b5352;
+  --myYellow: #ebea7c;
   --myWhite: #ebeff2;
-  /*--myWhite: #ffffff;*/
-  /*--myOrange: #fe5000;*/
-  /*Triada
-  Amarillo #EBEA7C
-  Vino #6B5352
-  Azul #86A9C0
-  Verde-Gris #6B6B52*/
+  --myGreenGrey: #6b6b52;
+  --myBlue: #86a9c0;
+  /*--myPureWhite: #ffffff;*/
 }
