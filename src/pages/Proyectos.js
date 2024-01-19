@@ -7,7 +7,7 @@ export default function Reformas() {
   }, []);
   return (
     <>
-      <div class="imgSuperior">
+      <div className="imgSuperior">
         <h1>
           Proyectos realizados
           <br />
@@ -16,7 +16,7 @@ export default function Reformas() {
           en Barcelona
         </h1>
       </div>
-      <div class="projectsSpace">
+      <div className="projectsSpace">
         <div className="texto-Home">
           <h2>
             Aquí podrás ver algunos ejemplos de las viviendas unifamiliares
@@ -33,9 +33,9 @@ export default function Reformas() {
             constructivo Steelframe.
           </h2>
         </div>
-        <div class="projecto1">
+        <div className="projecto1">
           <h3>VIVIENDA UNIFAMILIAR 1</h3>
-          <div class="reformasImg5"></div>
+          <div className="reformasImg5"></div>
           <p>
             Contamos con un equipo cualificado que se encarga de ejecutar los
             proyectos de la manera más eficiente posible, tanto en tiempo como
@@ -48,9 +48,9 @@ export default function Reformas() {
             la obra.
           </p>
         </div>
-        <div class="projecto1">
+        <div className="projecto1">
           <h3>VIVIENDA UNIFAMILIAR 2</h3>
-          <div class="reformasImg6"></div>
+          <div className="reformasImg6"></div>
           <p>
             Tenemos gran experiencia en este tipo de trabajos cumpliendo con sus
             pliegues de condiciones en cada caso. Hemos realizado tiendas tanto
@@ -64,9 +64,9 @@ export default function Reformas() {
             excelentes resultados y acabados.
           </p>
         </div>
-        <div class="projecto1">
+        <div className="projecto1">
           <h3>VIVIENDA UNIFAMILIAR 3</h3>
-          <div class="reformasImg1"></div>
+          <div className="reformasImg1"></div>
           <p>
             Rehabilitamos todo tipo de fachadas, abarcando todas aquellas
             técnicas que nos avalan para desarrollar las intervenciones que
@@ -81,9 +81,9 @@ export default function Reformas() {
           </p>
         </div>
 
-        <div class="projecto1">
+        <div className="projecto1">
           <h3>VIVIENDA UNIFAMILIAR 4</h3>
-          <div class="reformasImg4"></div>
+          <div className="reformasImg4"></div>
           <p>
             Las intervenciones en las cubiertas de los edificios son muy
             diversas y nosotros, en nuestra dilatada experiencia de más de 18
@@ -96,9 +96,9 @@ export default function Reformas() {
             consiguiendo el aislamiento térmico deseado.
           </p>
         </div>
-        <div class="projecto1">
+        <div className="projecto1">
           <h3>VIVIENDA UNIFAMILIAR 5</h3>
-          <div class="reformasImg2"></div>
+          <div className="reformasImg2"></div>
           <p>
             Los trabajos en patios interiores, se ejecutan mediante diferentes
             técnicas específicas o combinadas, dependiendo de la complejidad de
@@ -111,9 +111,9 @@ export default function Reformas() {
             pintura, sustitución de claraboyas ...
           </p>
         </div>
-        <div class="projecto1">
+        <div className="projecto1">
           <h3>VIVIENDA UNIFAMILIAR 6</h3>
-          <div class="reformasImg3"></div>
+          <div className="reformasImg3"></div>
           <p>
             Realizamos todo tipo de refuerzos estructurales según dictámenes de
             la Dirección Facultativa. Desde los sistemas tradicionales hasta los

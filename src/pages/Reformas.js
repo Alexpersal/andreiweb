@@ -7,7 +7,7 @@ export default function Reformas() {
   }, []);
   return (
     <>
-      <div class="imgSuperior">
+      <div className="imgSuperior">
         <h1>
           Rehabilitación de Fachadas
           <br />
@@ -16,10 +16,10 @@ export default function Reformas() {
           Barcelona ciudad y Provincia
         </h1>
       </div>
-      <div class="projectsSpace">
-        <div class="projecto1">
+      <div className="projectsSpace">
+        <div className="projecto1">
           <h3>REFORMAS INTERIORES DE VIVIENDAS</h3>
-          <div class="reformasImg5"></div>
+          <div className="reformasImg5"></div>
           <p>
             Contamos con un equipo de profesionales que hará realidad la reforma
             de sus sueños, con rapidez y calidad.<br></br>
@@ -31,9 +31,9 @@ export default function Reformas() {
             ya estuviera viviendo en su hogar ideal.
           </p>
         </div>
-        <div class="projecto1">
+        <div className="projecto1">
           <h3>RETAIL RESTAURACIÓN Y OFICINAS</h3>
-          <div class="reformasImg6"></div>
+          <div className="reformasImg6"></div>
           <p>
             Tenemos una larga trayectoria en el sector, haciendo realidad
             proyectos de reforma integral de oficinas y restauración, con la
@@ -48,9 +48,9 @@ export default function Reformas() {
             cada área, para asegurar unos resultados y acabados impecables.
           </p>
         </div>
-        <div class="projecto1">
+        <div className="projecto1">
           <h3>REHABILITACIONES DE FACHADAS</h3>
-          <div class="reformasImg1"></div>
+          <div className="reformasImg1"></div>
           <p>
             En BENTSA, nos dedicamos a la rehabilitación de fachadas, utilizamos
             las mejores técnicas y materiales para cada tipo de fachada, ya sea
@@ -62,9 +62,9 @@ export default function Reformas() {
           </p>
         </div>
 
-        <div class="projecto1">
+        <div className="projecto1">
           <h3>CUBIERTAS</h3>
-          <div class="reformasImg4"></div>
+          <div className="reformasImg4"></div>
           <p>
             Llevamos más de 18 años en el sector, y hemos realizado todo tipo de
             proyectos, nos dedicamos a la rehabilitación de cubiertas y tejados
@@ -80,9 +80,9 @@ export default function Reformas() {
             satisfecho con el resultado.
           </p>
         </div>
-        <div class="projecto1">
+        <div className="projecto1">
           <h3>PATIOS INTERIORES</h3>
-          <div class="reformasImg2"></div>
+          <div className="reformasImg2"></div>
           <p>
             ¿Quieres que tu patio interior luzca como nuevo? En BENTSA somos
             expertos en la rehabilitación y el mantenimiento de patios
@@ -95,9 +95,9 @@ export default function Reformas() {
             el pintado de paredes o el cambio de claraboyas.
           </p>
         </div>
-        <div class="projecto1">
+        <div className="projecto1">
           <h3>REFUERZOS ESTRUCTURALES</h3>
-          <div class="reformasImg3"></div>
+          <div className="reformasImg3"></div>
           <p>
             A veces es necesario realizar intervenciones correctivas en
             edificios o viviendas causadas por diversos tipos de patologías,

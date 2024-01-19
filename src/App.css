@@ -59,7 +59,7 @@ img {
 
 .Navegador-home a {
   text-decoration: none;
-  font-size: 30px;
+  font-size: 25px;
   font-weight: 600;
   position: relative;
   color: var(--myGrey);
@@ -197,6 +197,6 @@ img {
   }
 
   .Navegador-home a {
-    font-size: 24px;
+    font-size: 14px;
   }
 }

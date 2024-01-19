@@ -24,7 +24,7 @@ export default function Layout() {
             </li>
             <li key="../CasasEco">
               <Link to={"../CasasEco"}>
-                Casas <br></br>Industrializadas
+                Casas <br></br>sostenibles
               </Link>
             </li>
             <li key="../Reformas">

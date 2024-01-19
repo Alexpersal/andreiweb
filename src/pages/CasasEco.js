@@ -7,21 +7,21 @@ export default function CasasEco() {
   }, []);
   return (
     <>
-      <div class="imgSuperior">
+      <div className="imgSuperior">
         <h1>
           Construcción casas industrializadas <br />
           Ecosostenibles en Barcelona
         </h1>
       </div>
-      <div class="projectsSpace">
+      <div className="projectsSpace">
         <div className="casasTerminadas">
           <h3>CASAS DE DISEÑO Y RÚSTICAS RESPETUOSAS. </h3>
 
-          <div class="proyectoCasas">
-            <div class="casasImg1"></div>
+          <div className="proyectoCasas">
+            <div className="casasImg1"></div>
           </div>
-          <div class="proyectoCasas">
-            <div class="casasImg2"></div>
+          <div className="proyectoCasas">
+            <div className="casasImg2"></div>
           </div>
           <p>
             Creamos viviendas prefabricadas unifamiliares con un sistema
@@ -47,16 +47,18 @@ export default function CasasEco() {
             eficiente, sostenible y personalizada, que hará realidad tus sueños.{" "}
             <br></br>
             Tu casa será eficiente en términos de energía, lo que te ayudará a
-            ahorrar en tus facturas y a reducir tu huella de carbono. En
-            resumen, construimos casas que son perfectas para ti y para el
+            ahorrar en tus facturas y a reducir tu huella de carbono. <br></br>
+            En resumen, construimos casas que son perfectas para ti y para el
             planeta. <br></br>
-            <br></br>¿Estás listo para empezar a construir tus sueños con
-            nosotros?
+            <br></br>
+            <strong>
+              ¿Estás listo para empezar a construir tus sueños con nosotros?
+            </strong>
           </p>
         </div>
-        <div class="sistema-Constructivo">
+        <div className="sistema-Constructivo">
           <h3>ESTRUCTURA DE ACERO GALVANIZADO. </h3>
-          <div class="casasImg3"></div>
+          <div className="casasImg3"></div>
           <p>
             Utilizamos un sistema constructivo basado en acero galvanizado
             reciclado, diseñado exclusivamente para ti, adaptándose a tus deseos
@@ -78,9 +80,9 @@ export default function CasasEco() {
             de Passive house.
           </p>
         </div>
-        <div class="sistema-Constructivo">
+        <div className="sistema-Constructivo">
           <h3>MEJORAS SEGÚN PRESUPUESTO INICIAL. </h3>
-          <div class="casasImg4"></div>
+          <div className="casasImg4"></div>
           <p>
             En nuestra empresa, nos dedicamos a hacer realidad los sueños de
             tener un hogar perfecto. Nos enfocamos en la construcción de

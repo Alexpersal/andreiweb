@@ -5,14 +5,14 @@
   justify-content: center;
   align-items: center;
 }
-.phone {
-  margin-left: 25px;
-  margin-right: 10%;
+.phone,
+.position {
+  width: 33%;
 }
 
-.position {
+/*.position {
   margin-right: 25px;
-}
+}*/
 
 .phone a,
 .mail a,
@@ -58,6 +58,9 @@
   .position {
     width: 100%;
   }
+  /*.position br {
+    display: none;
+  }*/
 }
 @media only screen and (min-device-width: 375px) and (max-device-width: 428px) and (-webkit-min-device-pixel-ratio: 3) and (orientation: portrait) {
   .phone a,
@@ -71,13 +74,16 @@
     margin-right: 0px;
   }
   .mail {
-    margin-left: 19%;
-    margin-right: 0px;
-  }
-  .position {
-    width: 100%;
+    margin-left: 0%;
+    margin-right: 16px;
   }
 }
+/*.position {
+  width: 100%;
+}
+.position br {
+    display: none;
+  }*/
 /*mobile Landscape */
 @media only screen and (max-device-width: 926px) and (max-device-height: 428px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: landscape) {
   .phone a,
