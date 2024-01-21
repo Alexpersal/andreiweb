@@ -27,34 +27,35 @@
   .position p {
     font-size: 12px;
   }
+  .phone,
+  .position {
+    width: 33%;
+  }
 
-  .phone {
-    margin-left: 5%;
-    margin-right: 0px;
-  }
-  .mail {
-    margin-left: 9%;
-    margin-right: 0px;
-  }
   .position {
     width: 100%;
   }
+  svg {
+    margin-right: 0px;
+  }
 }
 @media only screen and (min-device-width: 375px) and (max-device-width: 428px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait) {
+  /* .cabeceraSuperior,
+  footer {
+    flex-flow: wrap;
+    justify-content: flex-start;
+    font-size: 20px;
+  }
+  .cabeceraSuperior svg {
+    font-size: 20px;
+  }
+  */
   .phone a,
   .mail a,
   .position p {
     font-size: 12px;
   }
 
-  .phone {
-    margin-left: 5%;
-    margin-right: 0px;
-  }
-  .mail {
-    margin-left: 19%;
-    margin-right: 0px;
-  }
   .position {
     width: 100%;
   }

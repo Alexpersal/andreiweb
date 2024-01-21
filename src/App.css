@@ -108,12 +108,13 @@ img {
     flex: 0 0 12em;
   }
 }
-
+/*mobile Portrait */
 @media only screen and (max-device-width: 370px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait) {
   .cabeceraSuperior,
   footer {
     flex-flow: wrap;
     justify-content: flex-start;
+    font-size: 20px;
   }
   .HolyGrail-nav {
     flex-flow: wrap;
@@ -131,11 +132,58 @@ img {
     width: 100%;
   }
   .Navegador-home a {
-    font-size: 14px;
+    font-size: 12px;
   }
   ul.Navegador-home {
     padding: 0;
     margin-top: 15px;
+  }
+  .phone a,
+  .mail a,
+  .position p {
+    font-size: 12px;
+  }
+  .mail {
+    margin-left: 10px;
+  }
+}
+/*mobile Portrait */
+@media only screen and (max-device-width: 370px) and (-webkit-min-device-pixel-ratio: 3) and (orientation: portrait) {
+  .cabeceraSuperior,
+  footer {
+    flex-flow: wrap;
+    justify-content: flex-start;
+    font-size: 20px;
+  }
+  .HolyGrail-nav {
+    flex-flow: wrap;
+    height: 50%;
+  }
+  .Logotipo {
+    height: 50px;
+    margin-top: 10px;
+  }
+  .Logotipo img {
+    height: 50px;
+  }
+
+  .Navegador-home {
+    width: 100%;
+  }
+  .Navegador-home a {
+    font-size: 12px;
+  }
+  ul.Navegador-home {
+    padding: 0;
+    margin-top: 15px;
+  }
+  .phone a,
+  .mail a,
+  .position p {
+    font-size: 12px;
+  }
+  .mail {
+    margin-left: 10px;
   }
 }
 @media only screen and (min-device-width: 375px) and (max-device-width: 428px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait) {
@@ -143,7 +191,9 @@ img {
   footer {
     flex-flow: wrap;
     justify-content: flex-start;
+    font-size: 20px;
   }
+
   .HolyGrail-nav {
     flex-flow: wrap;
     height: 50%;
@@ -159,9 +209,7 @@ img {
   .Navegador-home {
     width: 100%;
   }
-  .Navegador-home a {
-    font-size: 16px;
-  }
+
   ul.Navegador-home {
     padding: 0;
     margin-top: 15px;

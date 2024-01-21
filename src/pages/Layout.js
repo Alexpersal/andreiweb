@@ -28,9 +28,7 @@ export default function Layout() {
               </Link>
             </li>
             <li key="../Reformas">
-              <Link to={"../Reformas"}>
-                Reformas /<br></br> Rehabilitaciones
-              </Link>
+              <Link to={"../Reformas"}>Reformas</Link>
             </li>
             <li key="../Proyectos">
               <Link to={"../Proyectos"}>Proyectos</Link>
