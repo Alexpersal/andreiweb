@@ -116,6 +116,26 @@ img {
     justify-content: flex-start;
     font-size: 20px;
   }
+  .cabeceraSuperior svg,
+  footer svg {
+    width: 18px;
+    height: 18px;
+    margin-right: 5px;
+  }
+  .phone a,
+  .mail a,
+  .position p {
+    font-size: 12px;
+  }
+
+  .phone {
+    margin-left: 1%;
+    margin-right: 10px;
+  }
+  .position {
+    width: 100%;
+  }
+
   .HolyGrail-nav {
     flex-flow: wrap;
     height: 50%;
@@ -138,11 +158,7 @@ img {
     padding: 0;
     margin-top: 15px;
   }
-  .phone a,
-  .mail a,
-  .position p {
-    font-size: 12px;
-  }
+
   .mail {
     margin-left: 10px;
   }
@@ -155,6 +171,26 @@ img {
     justify-content: flex-start;
     font-size: 20px;
   }
+  .cabeceraSuperior svg,
+  footer svg {
+    width: 18px;
+    height: 18px;
+    margin-right: 5px;
+  }
+  .phone a,
+  .mail a,
+  .position p {
+    font-size: 12px;
+  }
+
+  .phone {
+    margin-left: 1%;
+    margin-right: 10px;
+  }
+  .position {
+    width: 100%;
+  }
+
   .HolyGrail-nav {
     flex-flow: wrap;
     height: 50%;
@@ -177,16 +213,12 @@ img {
     padding: 0;
     margin-top: 15px;
   }
-  .phone a,
-  .mail a,
-  .position p {
-    font-size: 12px;
-  }
+
   .mail {
     margin-left: 10px;
   }
 }
-@media only screen and (min-device-width: 375px) and (max-device-width: 428px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait) {
+@media only screen and (min-device-width: 375px) and (max-device-width: 430px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait) {
   .cabeceraSuperior,
   footer {
     flex-flow: wrap;
@@ -210,13 +242,17 @@ img {
     width: 100%;
   }
 
+  .Navegador-home a {
+    font-size: 12px;
+  }
+
   ul.Navegador-home {
     padding: 0;
     margin-top: 15px;
   }
 }
 /*mobile Landscape */
-@media only screen and (max-device-width: 926px) and (max-device-height: 428px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: landscape) {
+@media only screen and (max-device-width: 926px) and (max-device-height: 430px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: landscape) {
   .Logotipo {
     height: 50px;
   }
@@ -235,7 +271,7 @@ img {
   }
 }
 
-@media only screen and (min-device-width: 428px) and (max-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait) {
+@media only screen and (min-device-width: 430px) and (max-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait) {
   .Logotipo {
     height: 60px;
     margin-top: 15px;

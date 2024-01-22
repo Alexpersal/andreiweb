@@ -15,7 +15,7 @@
   justify-content: center;
   text-align: center;
 }
-.projectsSpace {
+.projectsSpaceCasas {
   display: flex;
   justify-content: space-around;
   align-content: center;
@@ -79,15 +79,21 @@
 .casasImg4 {
   background-image: url("/public/Imagenes/3ForjSanit.jpg");
 }
-/*
+
 @media only screen and (max-device-width: 370px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait) {
-  .projectsSpace p {
+  /* .projectsSpace p {
     font-size: smaller;
+  }*/
+  .projectsSpaceCasas {
+    display: block;
+  }
+  .projectsSpaceCasas p {
+    font-size: 14px;
   }
   .proyectoCasas {
     width: 84%;
     height: 250px;
-    margin-bottom: 30px;
+    /*margin-bottom: 30px;*/
   }
   .sistema-Constructivo {
     width: 84%;
@@ -106,14 +112,20 @@
     margin-bottom: 30px;
   }
 }
-@media only screen and (min-device-width: 375px) and (max-device-width: 428px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait) {
-  .projectsSpace p {
+@media only screen and (min-device-width: 375px) and (max-device-width: 430px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait) {
+  /* .projectsSpace p {
     font-size: smaller;
+  }*/
+  .projectsSpaceCasas {
+    display: block;
+  }
+  .projectsSpaceCasas p {
+    font-size: 14px;
   }
   .proyectoCasas {
     width: 84%;
     height: 250px;
-    margin-bottom: 30px;
+    /*margin-bottom: 30px;*/
   }
   .sistema-Constructivo {
     width: 84%;
@@ -132,4 +144,3 @@
     margin-bottom: 30px;
   }
 }
-*/

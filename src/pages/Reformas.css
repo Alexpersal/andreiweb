@@ -76,12 +76,13 @@
     margin-bottom: 30px;
   }
 }
-@media only screen and (min-device-width: 375px) and (max-device-width: 428px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait) {
+@media only screen and (min-device-width: 375px) and (max-device-width: 430px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait) {
   .imgSuperior h1 {
     font-size: 22px;
   }
   .projectsSpace {
     display: block;
+    margin-left: 40px;
   }
   .projecto1,
   .projecto2,

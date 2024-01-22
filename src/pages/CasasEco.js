@@ -13,7 +13,7 @@ export default function CasasEco() {
           Ecosostenibles en Barcelona
         </h1>
       </div>
-      <div className="projectsSpace">
+      <div className="projectsSpaceCasas">
         <div className="casasTerminadas">
           <h3>CASAS DE DISEÑO Y RÚSTICAS RESPETUOSAS. </h3>
 
