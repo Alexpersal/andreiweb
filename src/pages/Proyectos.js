@@ -1,4 +1,4 @@
-import "./Reformas.css";
+import "./Proyectos.css";
 import { useEffect } from "react";
 
 export default function Reformas() {
@@ -34,8 +34,8 @@ export default function Reformas() {
           </h2>
         </div>
         <div className="projecto1">
-          <h3>VIVIENDA UNIFAMILIAR 1</h3>
-          <div className="reformasImg5"></div>
+          <h3>Vivienda unifamiliar Cervera</h3>
+          <div className="proyectoImg01"></div>
           <p>
             Contamos con un equipo cualificado que se encarga de ejecutar los
             proyectos de la manera más eficiente posible, tanto en tiempo como
@@ -49,8 +49,8 @@ export default function Reformas() {
           </p>
         </div>
         <div className="projecto1">
-          <h3>VIVIENDA UNIFAMILIAR 2</h3>
-          <div className="reformasImg6"></div>
+          <h3>Vivienda unifamiliar Cardedeu</h3>
+          <div className="proyectoImg02"></div>
           <p>
             Tenemos gran experiencia en este tipo de trabajos cumpliendo con sus
             pliegues de condiciones en cada caso. Hemos realizado tiendas tanto
@@ -65,8 +65,8 @@ export default function Reformas() {
           </p>
         </div>
         <div className="projecto1">
-          <h3>VIVIENDA UNIFAMILIAR 3</h3>
-          <div className="reformasImg1"></div>
+          <h3>Vivienda unifamiliar Castellet i la Gornal</h3>
+          <div className="proyectoImg03"></div>
           <p>
             Rehabilitamos todo tipo de fachadas, abarcando todas aquellas
             técnicas que nos avalan para desarrollar las intervenciones que
@@ -82,8 +82,8 @@ export default function Reformas() {
         </div>
 
         <div className="projecto1">
-          <h3>VIVIENDA UNIFAMILIAR 4</h3>
-          <div className="reformasImg4"></div>
+          <h3>Vivienda unifamiliar Igualada</h3>
+          <div className="proyectoImg04"></div>
           <p>
             Las intervenciones en las cubiertas de los edificios son muy
             diversas y nosotros, en nuestra dilatada experiencia de más de 18
@@ -97,8 +97,8 @@ export default function Reformas() {
           </p>
         </div>
         <div className="projecto1">
-          <h3>VIVIENDA UNIFAMILIAR 5</h3>
-          <div className="reformasImg2"></div>
+          <h3>Vivienda unifamiliar Lliçà</h3>
+          <div className="proyectoImg05"></div>
           <p>
             Los trabajos en patios interiores, se ejecutan mediante diferentes
             técnicas específicas o combinadas, dependiendo de la complejidad de
@@ -112,8 +112,22 @@ export default function Reformas() {
           </p>
         </div>
         <div className="projecto1">
-          <h3>VIVIENDA UNIFAMILIAR 6</h3>
-          <div className="reformasImg3"></div>
+          <h3>Vivienda unifamiliar Sant Julià de Ramis</h3>
+          <div className="proyectoImg06"></div>
+          <p>
+            Realizamos todo tipo de refuerzos estructurales según dictámenes de
+            la Dirección Facultativa. Desde los sistemas tradicionales hasta los
+            más actuales tipo Mecanoviga, Cointecs o similares, así como
+            actuaciones en todo tipo de patología estructural (aluminosis,
+            desintegración de vigas de madera, oxidación vigas metálicas etc. )
+            Al tratarse de trabajos especialmente delicados, los realizamos
+            siempre siguiendo las indicaciones de arquitectos especializados y
+            respetando escrupulosamente todas las medidas de seguridad,
+          </p>
+        </div>
+        <div className="projecto1">
+          <h3>Vivienda unifamiliar Tàrrega</h3>
+          <div className="proyectoImg07"></div>
           <p>
             Realizamos todo tipo de refuerzos estructurales según dictámenes de
             la Dirección Facultativa. Desde los sistemas tradicionales hasta los

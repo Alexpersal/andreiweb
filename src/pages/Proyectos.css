@@ -15,35 +15,39 @@
 .projecto1 p {
   margin-top: 10%;
 }
-.reformasImg1,
-.reformasImg2,
-.reformasImg3,
-.reformasImg4,
-.reformasImg5,
-.reformasImg6 {
+.proyectoImg01,
+.proyectoImg02,
+.proyectoImg03,
+.proyectoImg04,
+.proyectoImg05,
+.proyectoImg06,
+.proyectoImg07 {
   margin-top: 5%;
   margin-bottom: 5%;
   box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
   background-size: cover;
   height: 400px;
 }
-.reformasImg1 {
-  background-image: url("/public/Imagenes/1Fachadas.jpg");
+.proyectoImg01 {
+  background-image: url("/public/Imagenes/Proyectos/cervera01.webp");
 }
-.reformasImg2 {
-  background-image: url("/public/Imagenes/2PInt.jpg");
+.proyectoImg02 {
+  background-image: url("/public/Imagenes/Proyectos/cardedeu01.webp");
 }
-.reformasImg3 {
-  background-image: url("/public/Imagenes/3RefEstruct.jpg");
+.proyectoImg03 {
+  background-image: url("/public/Imagenes/Proyectos/castellet01.webp");
 }
-.reformasImg4 {
-  background-image: url("/public/Imagenes/4Cubiertas.jpg");
+.proyectoImg04 {
+  background-image: url("/public/Imagenes/Proyectos/igualada01.webp");
 }
-.reformasImg5 {
-  background-image: url("/public/Imagenes/5RefInt.jpg");
+.proyectoImg05 {
+  background-image: url("/public/Imagenes/Proyectos/llica01.webp");
 }
-.reformasImg6 {
-  background-image: url("/public/Imagenes/6Retail.jpg");
+.proyectoImg06 {
+  background-image: url("/public/Imagenes/Proyectos/juliaRamis01.webp");
+}
+.proyectoImg07 {
+  background-image: url("/public/Imagenes/Proyectos/tarrega01.webp");
 }
 
 @media only screen and (max-device-width: 370px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait) {
@@ -62,12 +66,13 @@
   .projecto6 {
     width: 84%;
   }
-  .reformasImg1,
-  .reformasImg2,
-  .reformasImg3,
-  .reformasImg4,
-  .reformasImg5,
-  .reformasImg6 {
+  .proyectoImg01,
+  .proyectoImg02,
+  .proyectoImg03,
+  .proyectoImg04,
+  .proyectoImg05,
+  .proyectoImg06,
+  .proyectoImg07 {
     height: 250px;
     margin-bottom: 30px;
   }

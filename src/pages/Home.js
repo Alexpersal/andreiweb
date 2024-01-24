@@ -1,9 +1,9 @@
 import "./Home.css";
 import React, { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
-import img1 from "../pages/obrasHome.webp";
-import img2 from "../pages/obrasCasas.webp";
-import img3 from "../pages/obrasReformas.webp";
+import img1 from "../pages/carrusel 1.webp";
+import img2 from "../pages/carrusel 2.webp";
+import img3 from "../pages/carusel 4.webp";
 import imgDisenoInteriores from "../pages/disenoInteriores.webp";
 import casaSteelFrame from "../pages/casaSteelFrame.webp";
 
