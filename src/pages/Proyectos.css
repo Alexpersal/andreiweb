@@ -15,39 +15,24 @@
 .projecto1 p {
   margin-top: 10%;
 }
-.proyectoImg01,
-.proyectoImg02,
-.proyectoImg03,
-.proyectoImg04,
-.proyectoImg05,
-.proyectoImg06,
-.proyectoImg07 {
+
+.proyectoImg01 {
+  /*margin-top: 5%;
+  margin-bottom: 5%;*/
+  box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+  /*background-size: cover;
+  height: 400px;*/
+}
+.proyectoImg04 {
   margin-top: 5%;
   margin-bottom: 5%;
   box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
   background-size: cover;
   height: 400px;
 }
-.proyectoImg01 {
-  background-image: url("/public/Imagenes/Proyectos/cervera01.webp");
-}
-.proyectoImg02 {
-  background-image: url("/public/Imagenes/Proyectos/cardedeu01.webp");
-}
-.proyectoImg03 {
-  background-image: url("/public/Imagenes/Proyectos/castellet01.webp");
-}
+
 .proyectoImg04 {
-  background-image: url("/public/Imagenes/Proyectos/igualada01.webp");
-}
-.proyectoImg05 {
-  background-image: url("/public/Imagenes/Proyectos/llica01.webp");
-}
-.proyectoImg06 {
-  background-image: url("/public/Imagenes/Proyectos/juliaRamis01.webp");
-}
-.proyectoImg07 {
-  background-image: url("/public/Imagenes/Proyectos/tarrega01.webp");
+  background-image: url("../Imagenes/Proyectos/Igualada/igualada01.webp");
 }
 
 @media only screen and (max-device-width: 370px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait) {

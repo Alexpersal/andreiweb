@@ -1,10 +1,47 @@
 import "./Proyectos.css";
 import { useEffect } from "react";
+import Carousel from "./Carrusel";
 
-export default function Reformas() {
+import imagen1 from "../Imagenes/Proyectos/Cervera/cervera01.webp";
+import imagen2 from "../Imagenes/Proyectos/Cervera/cervera02.webp";
+import imagen3 from "../Imagenes/Proyectos/Cervera/cervera03.webp";
+import imagen4 from "../Imagenes/Proyectos/Cervera/cervera04.webp";
+import imagen5 from "../Imagenes/Proyectos/Cervera/interior06.webp";
+import imagen6 from "../Imagenes/Proyectos/Cardedeu/cardedeu01.webp";
+import imagen7 from "../Imagenes/Proyectos/Cardedeu/cardedeu02.webp";
+import imagen8 from "../Imagenes/Proyectos/Cardedeu/cardedeu03.webp";
+import imagen9 from "../Imagenes/Proyectos/Cardedeu/cardedeu04.webp";
+import imagen10 from "../Imagenes/Proyectos/Cardedeu/cardedeu05.webp";
+import imagen11 from "../Imagenes/Proyectos/Cardedeu/cardedeu06.webp";
+import imagen12 from "../Imagenes/Proyectos/Castellet/castellet01.webp";
+import imagen13 from "../Imagenes/Proyectos/Castellet/castellet02.webp";
+import imagen14 from "../Imagenes/Proyectos/Castellet/castellet03.webp";
+import imagen15 from "../Imagenes/Proyectos/Llica/llica01.webp";
+import imagen16 from "../Imagenes/Proyectos/Llica/llica02.webp";
+import imagen17 from "../Imagenes/Proyectos/Ramis/juliaRamis01.webp";
+import imagen18 from "../Imagenes/Proyectos/Ramis/juliaRamis02.webp";
+import imagen19 from "../Imagenes/Proyectos/Tarrega/tarrega01.webp";
+import imagen20 from "../Imagenes/Proyectos/Tarrega/tarrega02.webp";
+import imagen21 from "../Imagenes/Proyectos/Tarrega/tarrega03.webp";
+import imagen22 from "../Imagenes/Proyectos/Tarrega/tarrega04.webp";
+
+export default function Proyectos() {
   useEffect(() => {
     window.scrollTo({ top: 0, left: 0, behavior: "smooth" });
   }, []);
+  const carouselImages1 = [imagen1, imagen2, imagen3, imagen4, imagen5];
+  const carouselImages2 = [
+    imagen6,
+    imagen7,
+    imagen8,
+    imagen9,
+    imagen10,
+    imagen11,
+  ];
+  const carouselImages3 = [imagen12, imagen13, imagen14];
+  const carouselImages4 = [imagen15, imagen16];
+  const carouselImages5 = [imagen17, imagen18];
+  const carouselImages6 = [imagen19, imagen20, imagen21, imagen22];
   return (
     <>
       <div className="imgSuperior">
@@ -35,7 +72,13 @@ export default function Reformas() {
         </div>
         <div className="projecto1">
           <h3>Vivienda unifamiliar Cervera</h3>
-          <div className="proyectoImg01"></div>
+          <div>
+            <Carousel
+              images={carouselImages1}
+              className="proyectoImg01"
+            ></Carousel>
+          </div>
+
           <p>
             Contamos con un equipo cualificado que se encarga de ejecutar los
             proyectos de la manera más eficiente posible, tanto en tiempo como
@@ -50,7 +93,7 @@ export default function Reformas() {
         </div>
         <div className="projecto1">
           <h3>Vivienda unifamiliar Cardedeu</h3>
-          <div className="proyectoImg02"></div>
+          <Carousel images={carouselImages2}></Carousel>
           <p>
             Tenemos gran experiencia en este tipo de trabajos cumpliendo con sus
             pliegues de condiciones en cada caso. Hemos realizado tiendas tanto
@@ -66,18 +109,18 @@ export default function Reformas() {
         </div>
         <div className="projecto1">
           <h3>Vivienda unifamiliar Castellet i la Gornal</h3>
-          <div className="proyectoImg03"></div>
+          <Carousel images={carouselImages3}></Carousel>
           <p>
             Rehabilitamos todo tipo de fachadas, abarcando todas aquellas
             técnicas que nos avalan para desarrollar las intervenciones que
             corresponden a cada tipo de fachada, ( fachadas ventiladas,
             revestimientos, sistema SATE, aplacados de piedra artificial,
-            porcelánicos, morteros a la cal o convencionales ... ). <br></br>En
-            GRUP JCMA CALVO, sabemos que la calidad no es una opción, sino una
-            obligación, por ello siempre cumplimos estrictamente con todas las
-            medidas de Seguridad pertinentes, reflejadas en el Plan de Seguridad
-            supervisado por nuestros técnicos especializados y por la Dirección
-            Facultativa responsable del proyecto.
+            porcelánicos, morteros a la cal o convencionales ... ). <br></br>
+            En GRUP JCMA CALVO, sabemos que la calidad no es una opción, sino
+            una obligación, por ello siempre cumplimos estrictamente con todas
+            las medidas de Seguridad pertinentes, reflejadas en el Plan de
+            Seguridad supervisado por nuestros técnicos especializados y por la
+            Dirección Facultativa responsable del proyecto.
           </p>
         </div>
 
@@ -98,7 +141,7 @@ export default function Reformas() {
         </div>
         <div className="projecto1">
           <h3>Vivienda unifamiliar Lliçà</h3>
-          <div className="proyectoImg05"></div>
+          <Carousel images={carouselImages4}></Carousel>
           <p>
             Los trabajos en patios interiores, se ejecutan mediante diferentes
             técnicas específicas o combinadas, dependiendo de la complejidad de
@@ -113,7 +156,7 @@ export default function Reformas() {
         </div>
         <div className="projecto1">
           <h3>Vivienda unifamiliar Sant Julià de Ramis</h3>
-          <div className="proyectoImg06"></div>
+          <Carousel images={carouselImages5}></Carousel>
           <p>
             Realizamos todo tipo de refuerzos estructurales según dictámenes de
             la Dirección Facultativa. Desde los sistemas tradicionales hasta los
@@ -127,7 +170,7 @@ export default function Reformas() {
         </div>
         <div className="projecto1">
           <h3>Vivienda unifamiliar Tàrrega</h3>
-          <div className="proyectoImg07"></div>
+          <Carousel images={carouselImages6}></Carousel>
           <p>
             Realizamos todo tipo de refuerzos estructurales según dictámenes de
             la Dirección Facultativa. Desde los sistemas tradicionales hasta los

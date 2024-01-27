@@ -28,22 +28,22 @@
   height: 400px;
 }
 .reformasImg1 {
-  background-image: url("/public/Imagenes/Reformas/1Fachadas.jpg");
+  background-image: url("../Imagenes/Reformas/1Fachadas.webp");
 }
 .reformasImg2 {
-  background-image: url("/public/Imagenes/Reformas/2PInt.jpg");
+  background-image: url("../Imagenes/Reformas//2PInt.webp");
 }
 .reformasImg3 {
-  background-image: url("/public/Imagenes/Reformas/3RefEstruct.jpg");
+  background-image: url("../Imagenes/Reformas/3RefEstruct.webp");
 }
 .reformasImg4 {
-  background-image: url("/public/Imagenes/Reformas/4Cubiertas.jpg");
+  background-image: url("../Imagenes/Reformas/4Cubiertas.webp");
 }
 .reformasImg5 {
-  background-image: url("/public/Imagenes/Reformas/5RefInt.jpg");
+  background-image: url("../Imagenes/Reformas/5RefInt.webp");
 }
 .reformasImg6 {
-  background-image: url("/public/Imagenes/Reformas/6Retail.jpg");
+  background-image: url("../Imagenes/Reformas/6Retail.webp");
 }
 
 @media only screen and (max-device-width: 370px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait) {

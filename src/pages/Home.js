@@ -1,11 +1,11 @@
 import "./Home.css";
 import React, { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
-import img1 from "../pages/carrusel 1.webp";
-import img2 from "../pages/carrusel 2.webp";
-import img3 from "../pages/carusel 4.webp";
-import imgDisenoInteriores from "../pages/disenoInteriores.webp";
-import casaSteelFrame from "../pages/casaSteelFrame.webp";
+import img1 from "../Imagenes/Home/carrusel 1.webp";
+import img2 from "../Imagenes/Home/carrusel 2.webp";
+import img3 from "../Imagenes/Home/carusel 4.webp";
+import imgDisenoInteriores from "../Imagenes/Proyectos/Cervera/cervera04.webp";
+import casaSteelFrame from "../Imagenes/Home/casaSteelFrame.webp";
 
 function Home() {
   // eslint-disable-next-line react-hooks/exhaustive-deps
@@ -82,6 +82,25 @@ function Home() {
             ></img>
           </Link>
           <div className="contenedor-proyectos-reformas-textos">
+            <h2>REFORMAS INTEGRALES </h2>
+
+            <p>
+              En BENTSA nos preocupamos por el medio ambiente y por tu bienestar
+              sin dejar de un lado la calidad y los resultados deseados. Por
+              eso, te ofrecemos las mejores soluciones para reformar tu casa o
+              tu negocio, aprovechando al máximo los recursos, cuidando el
+              ecosistema y garantizando la exceléncia. Deja en nuestras manos tu
+              nuevo proyecto, te acompañaremos en todo el proceso, desde el
+              diseño hasta la ejecución, para que tu espacio se adapte a tus
+              gustos y necesidades. Así, conseguirás un espacio que respete el
+              planeta, que te haga sentir bien y que ahorre energía. ¿A qué
+              esperas? ¡Contacta con nosotros y te daremos un presupuesto sin
+              compromiso!”
+            </p>
+          </div>
+        </div>
+        <div className="contenedor-proyectos-casas-descripcion">
+          <div className="contenedor-proyectos-casas-textos">
             <h2>VIVIENDAS INDUSTRIALIZADAS</h2>
             <p>
               En BENTSA sabemos que hacer realidad tu proyecto, alcanzar tu
@@ -95,24 +114,6 @@ function Home() {
               sostenibles y que se ajusten a tu presupuesto. Tus proyectos son
               nuestra pasión, y estamos deseando hacerlos realidad. Contacta con
               nosotros y te sorprenderemos.
-            </p>
-          </div>
-        </div>
-        <div className="contenedor-proyectos-casas-descripcion">
-          <div className="contenedor-proyectos-casas-textos">
-            <h2>REFORMAS INTEGRALES</h2>
-            <p>
-              En BENTSA nos preocupamos por el medio ambiente y por tu bienestar
-              sin dejar de un lado la calidad y los resultados deseados. Por
-              eso, te ofrecemos las mejores soluciones para reformar tu casa o
-              tu negocio, aprovechando al máximo los recursos, cuidando el
-              ecosistema y garantizando la exceléncia. Deja en nuestras manos tu
-              nuevo proyecto, te acompañaremos en todo el proceso, desde el
-              diseño hasta la ejecución, para que tu espacio se adapte a tus
-              gustos y necesidades. Así, conseguirás un espacio que respete el
-              planeta, que te haga sentir bien y que ahorre energía. ¿A qué
-              esperas? ¡Contacta con nosotros y te daremos un presupuesto sin
-              compromiso!”
             </p>
           </div>
           <Link

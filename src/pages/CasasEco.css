@@ -5,7 +5,7 @@
       rgba(255, 255, 255, 0.4),
       rgba(255, 255, 255, 0.6)
     ),
-    url("obrasHome.webp");
+    url("../Imagenes/CasasEco/obrasHome.webp");
   background-color: transparent;
   background-size: cover;
   display: flex;
@@ -68,16 +68,16 @@
   box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
 }
 .casasImg1 {
-  background-image: url("/public/Imagenes/CasasEco/1moderna.jpg");
+  background-image: url("../Imagenes/CasasEco/1moderna.jpg");
 }
 .casasImg2 {
-  background-image: url("/public/Imagenes/CasasEco/1rustica.jpg");
+  background-image: url("../Imagenes/CasasEco/1rustica.jpg");
 }
 .casasImg3 {
-  background-image: url("/public/Imagenes/CasasEco/2estrucAcero.jpg");
+  background-image: url("../Imagenes/CasasEco/2estrucAcero.jpg");
 }
 .casasImg4 {
-  background-image: url("/public/Imagenes/CasasEco/3ForjSanit.jpg");
+  background-image: url("../Imagenes/CasasEco/3ForjSanit.jpg");
 }
 
 @media only screen and (max-device-width: 370px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait) {

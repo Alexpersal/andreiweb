@@ -1,0 +1,7 @@
+.imgCarousel {
+  display: flex;
+  align-items: center;
+}
+.BsArrowBarLeft :hover {
+  opacity: 1;
+}
