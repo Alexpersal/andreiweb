@@ -8,7 +8,6 @@
   width: 100%;
 }
 .contenedor-imagenes {
-  width: 100%;
   max-height: max-content;
   height: 351px;
   text-align: center;
@@ -23,11 +22,12 @@
   opacity: 50%;
 }
 .texto-imagen {
+  width: 100%;
   position: absolute;
   top: 35%;
   left: 50%;
   transform: translate(-50%, -50%);
-  font-size: 48px;
+  font-size: 40px;
   font-weight: 600;
   animation-name: sacarTexto;
   animation-duration: 5s;
@@ -109,7 +109,7 @@
     height: 200px;
   }
   .texto-imagen {
-    top: 47%;
+    top: 40%;
     font-size: 20px;
   }
   .texto-Home h2 {
@@ -151,12 +151,12 @@
   }
 }
 /*mobile Portrait */
-@media only screen and (min-device-width: 375px) and (max-device-width: 430px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait) {
+@media only screen and (min-device-width: 375px) and (max-device-width: 720px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait) {
   .contenedor-imagenes {
     height: 200px;
   }
   .texto-imagen {
-    top: 35%;
+    top: 33%;
     font-size: 20px;
   }
   .texto-Home h2 {
@@ -196,14 +196,14 @@
     margin-left: 30px;
   }
 }
-@media only screen and (min-device-width: 431px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait) {
+@media only screen and (min-device-width: 721px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait) {
   .texto-imagen {
     top: 25%;
     font-size: 40px;
   }
 }
 /*mobile Landscape */
-@media only screen and (max-device-width: 926px) and (max-device-height: 430px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: landscape) {
+@media only screen and (max-device-width: 926px) and (max-device-height: 430px) and (-webkit-min-device-pixel-ratio: 3) and (orientation: landscape) {
   .contenedor-imagenes,
   .contenedor-proyectos {
     width: 100%;
