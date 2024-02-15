@@ -41,7 +41,7 @@ export default function Layout() {
           <Outlet></Outlet>
         </main>
       </div>
-      <footer>
+      <footer className="cabeceraSuperior">
         <DatosContacto></DatosContacto>
       </footer>
     </>

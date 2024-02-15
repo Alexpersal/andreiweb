@@ -4,12 +4,13 @@ import { Link } from "react-router-dom";
 import img1 from "../Imagenes/Home/carrusel 1.webp";
 import img2 from "../Imagenes/Home/carrusel 2.webp";
 import img3 from "../Imagenes/Home/carusel 4.webp";
-import imgDisenoInteriores from "../Imagenes/Proyectos/Cervera/cervera04.webp";
+import img4 from "../Imagenes/Proyectos/Cardedeu/cardedeu02.webp";
+import imgDisenoInteriores from "../Imagenes/Proyectos/Cervera/interior06.webp";
 import casaSteelFrame from "../Imagenes/Home/casaSteelFrame.webp";
 
 function Home() {
   // eslint-disable-next-line react-hooks/exhaustive-deps
-  const imagenes = [img3, img2, img1, img2];
+  const imagenes = [img3, img2, img1, img4];
   const frases = [
     "Construcción sostenible",
     "Viviendas a medida",
@@ -59,7 +60,8 @@ function Home() {
           calidad y de bajo impacto ambiental.<br></br> Contamos con un equipo
           propio de operarios expertos en cada fase de la obra, y con un equipo
           de técnicos colaboradores que nos apoyan en el estudio y el diseño de
-          los proyectos. <br></br>Hacemos <strong>reformas</strong>reformas y{" "}
+          los proyectos. <br></br>
+          <br></br>Hacemos <strong>reformas</strong>reformas y{" "}
           <strong>rehabilitaciones</strong>rehabilitaciones de todo tipo,
           trabajando con promotores y administradores de fincas de confianza,
           por toda la província de<strong> Barcelona</strong>. <br></br>
