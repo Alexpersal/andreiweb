@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/andreiweb/static/css/main.aeff1517.css",
-    "main.js": "/andreiweb/static/js/main.79c14b65.js",
+    "main.js": "/andreiweb/static/js/main.c6efead8.js",
     "static/js/787.54cd181e.chunk.js": "/andreiweb/static/js/787.54cd181e.chunk.js",
     "static/media/2estrucAcero.jpg": "/andreiweb/static/media/2estrucAcero.742fd56aaf76822ecb4b.jpg",
     "static/media/1rustica.jpg": "/andreiweb/static/media/1rustica.237b486ed2f1d86b1d5b.jpg",
@@ -9,6 +9,7 @@
     "static/media/1moderna.jpg": "/andreiweb/static/media/1moderna.97820ba9b8593682e565.jpg",
     "static/media/obrasHome.webp": "/andreiweb/static/media/obrasHome.1cce3c4b1c5daf793b2c.webp",
     "static/media/carrusel 2.webp": "/andreiweb/static/media/carrusel 2.f7c86229ef7229c24b3f.webp",
+    "static/media/obrasReformas.webp": "/andreiweb/static/media/obrasReformas.07523e2e7b52dca9127e.webp",
     "static/media/carrusel 1.webp": "/andreiweb/static/media/carrusel 1.1c78b8bc659e76151806.webp",
     "static/media/carusel 4.webp": "/andreiweb/static/media/carusel 4.7097052919ebc6d16a2b.webp",
     "static/media/6Retail.webp": "/andreiweb/static/media/6Retail.8e2d63fd66a32b6b5cc7.webp",
@@ -44,11 +45,11 @@
     "static/media/logo_transparent.webp": "/andreiweb/static/media/logo_transparent.585ac0fa92ba5f303195.webp",
     "index.html": "/andreiweb/index.html",
     "main.aeff1517.css.map": "/andreiweb/static/css/main.aeff1517.css.map",
-    "main.79c14b65.js.map": "/andreiweb/static/js/main.79c14b65.js.map",
+    "main.c6efead8.js.map": "/andreiweb/static/js/main.c6efead8.js.map",
     "787.54cd181e.chunk.js.map": "/andreiweb/static/js/787.54cd181e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.aeff1517.css",
-    "static/js/main.79c14b65.js"
+    "static/js/main.c6efead8.js"
   ]
 }
