@@ -5,7 +5,7 @@ import img1 from "../Imagenes/Home/carrusel 1.webp";
 import img2 from "../Imagenes/Home/carrusel 2.webp";
 import img3 from "../Imagenes/Home/carusel 4.webp";
 import img4 from "../Imagenes/Proyectos/Cardedeu/cardedeu02.webp";
-import imgDisenoInteriores from "../Imagenes/Proyectos/Cervera/interior06.webp";
+import imgDisenoInteriores from "../Imagenes/Home/obrasReformas.webp";
 import casaSteelFrame from "../Imagenes/Home/casaSteelFrame.webp";
 
 function Home() {
