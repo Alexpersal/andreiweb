@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/andreiweb/static/css/main.aaf6333b.css",
+    "main.css": "/andreiweb/static/css/main.1783f7a2.css",
     "main.js": "/andreiweb/static/js/main.c6efead8.js",
     "static/js/787.54cd181e.chunk.js": "/andreiweb/static/js/787.54cd181e.chunk.js",
     "static/media/2estrucAcero.jpg": "/andreiweb/static/media/2estrucAcero.742fd56aaf76822ecb4b.jpg",
@@ -44,12 +44,12 @@
     "static/media/2PInt.webp": "/andreiweb/static/media/2PInt.1849bbd033885db00883.webp",
     "static/media/logo_transparent.webp": "/andreiweb/static/media/logo_transparent.585ac0fa92ba5f303195.webp",
     "index.html": "/andreiweb/index.html",
-    "main.aaf6333b.css.map": "/andreiweb/static/css/main.aaf6333b.css.map",
+    "main.1783f7a2.css.map": "/andreiweb/static/css/main.1783f7a2.css.map",
     "main.c6efead8.js.map": "/andreiweb/static/js/main.c6efead8.js.map",
     "787.54cd181e.chunk.js.map": "/andreiweb/static/js/787.54cd181e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.aaf6333b.css",
+    "static/css/main.1783f7a2.css",
     "static/js/main.c6efead8.js"
   ]
 }
