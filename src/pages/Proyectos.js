@@ -24,6 +24,7 @@ import imagen19 from "../Imagenes/Proyectos/Tarrega/tarrega01.webp";
 import imagen20 from "../Imagenes/Proyectos/Tarrega/tarrega02.webp";
 import imagen21 from "../Imagenes/Proyectos/Tarrega/tarrega03.webp";
 import imagen22 from "../Imagenes/Proyectos/Tarrega/tarrega04.webp";
+import video from "../Video/videoCasas.mp4";
 
 export default function Proyectos() {
   useEffect(() => {
@@ -56,18 +57,35 @@ export default function Proyectos() {
       <div className="projectsSpace">
         <div className="texto-Home">
           <h2>
+            Te sorprenderás de la variedad y la belleza de estas viviendas, que
+            combinan el diseño y la funcionalidad con el respeto por el entorno.
+          </h2>{" "}
+          <div className="projectVideoPresentacion">
+            <video
+              className="videoPresentacion"
+              type="video/mp4"
+              width="700"
+              height="393"
+              src={video}
+              title="Video promocion"
+              controls
+            ></video>
+          </div>
+          <h2>
+            No lo dudes más y contacta con nosotros para solicitar un
+            presupuesto sin compromiso.
+          </h2>
+          <h2>
+            Te asesoraremos y te ayudaremos a crear la vivienda de tus sueños,
+            con la mejor relación calidad-precio del mercado, estamos seguros de
+            que quedarás satisfecho con nuestro trabajo y con tu nueva vivienda
+            unifamiliar prefabricada con sistema constructivo Steelframe.
+          </h2>
+          <h2>
             Aquí podrás ver algunos ejemplos de las viviendas unifamiliares
             prefabricadas con sistema constructivo Steelframe que hemos
             construido, puedes visitar nuestra galería de proyectos, donde
-            encontrarás imágenes y descripciones de cada uno de ellos. Te
-            sorprenderás de la variedad y la belleza de estas viviendas, que
-            combinan el diseño y la funcionalidad con el respeto por el entorno.
-            No lo dudes más y contacta con nosotros para solicitar un
-            presupuesto sin compromiso. Te asesoraremos y te ayudaremos a crear
-            la vivienda de tus sueños, con la mejor relación calidad-precio del
-            mercado. Estamos seguros de que quedarás satisfecho con nuestro
-            trabajo y con tu nueva vivienda unifamiliar prefabricada con sistema
-            constructivo Steelframe.
+            encontrarás imágenes y descripciones de cada uno de ellos.
           </h2>
         </div>
         <div className="projecto1">
@@ -123,20 +141,18 @@ export default function Proyectos() {
             Dirección Facultativa responsable del proyecto.
           </p>
         </div>
-
         <div className="projecto1">
-          <h3>Vivienda unifamiliar Igualada</h3>
-          <div className="proyectoImg04"></div>
+          <h3>Vivienda unifamiliar Sant Julià de Ramis</h3>
+          <Carousel images={carouselImages5}></Carousel>
           <p>
-            Las intervenciones en las cubiertas de los edificios son muy
-            diversas y nosotros, en nuestra dilatada experiencia de más de 18
-            años que nos avalan, hemos podido realizar cada una de ellas. Desde
-            la restauración total mediante la impermeabilización con los
-            distintos materiales homologados, empezando por los más
-            tradicionales como la tela asfáltica o la auto protegida hasta los
-            más innovadores como las imprimaciones de poliuretanos o la
-            poliurea. Realizamos cubiertas invertidas y tradicionales
-            consiguiendo el aislamiento térmico deseado.
+            Realizamos todo tipo de refuerzos estructurales según dictámenes de
+            la Dirección Facultativa. Desde los sistemas tradicionales hasta los
+            más actuales tipo Mecanoviga, Cointecs o similares, así como
+            actuaciones en todo tipo de patología estructural (aluminosis,
+            desintegración de vigas de madera, oxidación vigas metálicas etc. )
+            Al tratarse de trabajos especialmente delicados, los realizamos
+            siempre siguiendo las indicaciones de arquitectos especializados y
+            respetando escrupulosamente todas las medidas de seguridad,
           </p>
         </div>
         <div className="projecto1">
@@ -154,20 +170,7 @@ export default function Proyectos() {
             pintura, sustitución de claraboyas ...
           </p>
         </div>
-        <div className="projecto1">
-          <h3>Vivienda unifamiliar Sant Julià de Ramis</h3>
-          <Carousel images={carouselImages5}></Carousel>
-          <p>
-            Realizamos todo tipo de refuerzos estructurales según dictámenes de
-            la Dirección Facultativa. Desde los sistemas tradicionales hasta los
-            más actuales tipo Mecanoviga, Cointecs o similares, así como
-            actuaciones en todo tipo de patología estructural (aluminosis,
-            desintegración de vigas de madera, oxidación vigas metálicas etc. )
-            Al tratarse de trabajos especialmente delicados, los realizamos
-            siempre siguiendo las indicaciones de arquitectos especializados y
-            respetando escrupulosamente todas las medidas de seguridad,
-          </p>
-        </div>
+
         <div className="projecto1">
           <h3>Vivienda unifamiliar Tàrrega</h3>
           <Carousel images={carouselImages6}></Carousel>
@@ -180,6 +183,21 @@ export default function Proyectos() {
             Al tratarse de trabajos especialmente delicados, los realizamos
             siempre siguiendo las indicaciones de arquitectos especializados y
             respetando escrupulosamente todas las medidas de seguridad,
+          </p>
+        </div>
+        <div className="projecto1">
+          <h3>Vivienda unifamiliar Igualada</h3>
+          <div className="proyectoImg04"></div>
+          <p>
+            Las intervenciones en las cubiertas de los edificios son muy
+            diversas y nosotros, en nuestra dilatada experiencia de más de 18
+            años que nos avalan, hemos podido realizar cada una de ellas. Desde
+            la restauración total mediante la impermeabilización con los
+            distintos materiales homologados, empezando por los más
+            tradicionales como la tela asfáltica o la auto protegida hasta los
+            más innovadores como las imprimaciones de poliuretanos o la
+            poliurea. Realizamos cubiertas invertidas y tradicionales
+            consiguiendo el aislamiento térmico deseado.
           </p>
         </div>
       </div>

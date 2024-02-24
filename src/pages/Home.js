@@ -61,10 +61,10 @@ function Home() {
           propio de operarios expertos en cada fase de la obra, y con un equipo
           de técnicos colaboradores que nos apoyan en el estudio y el diseño de
           los proyectos. <br></br>
-          <br></br>Hacemos <strong>reformas</strong>reformas y{" "}
-          <strong>rehabilitaciones</strong>rehabilitaciones de todo tipo,
-          trabajando con promotores y administradores de fincas de confianza,
-          por toda la província de<strong> Barcelona</strong>. <br></br>
+          <br></br>Hacemos <strong>reformas</strong> y{" "}
+          <strong>rehabilitaciones</strong> de todo tipo, trabajando con
+          promotores y administradores de fincas de confianza, por toda la
+          província de<strong> Barcelona</strong>. <br></br>
           <br></br>¿Tienes un proyecto en mente? <br></br>
           <br></br>Pues no lo dejes pasar y contacta con nosotros. <br></br>
           Estamos deseando escucharte y ayudarte a hacerlo realidad.

@@ -5,6 +5,14 @@
   flex-wrap: wrap;
   margin-bottom: 2%;
 }
+.projectVideoPresentacion {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.videoPresentacion {
+  border: none;
+}
+
 .projecto1 {
   width: 45%;
   margin-top: 5%;
@@ -42,7 +50,14 @@
   .projectsSpace p {
     font-size: 14px;
   }
-
+  .projectVideoPresentacion {
+    margin-top: 10%;
+  }
+  .videoPresentacion {
+    height: 250px;
+    width: 100%;
+    margin-bottom: 30px;
+  }
   .projecto1,
   .projecto2,
   .projecto3,
@@ -50,6 +65,7 @@
   .projecto5,
   .projecto6 {
     width: 84%;
+    margin-top: 10%;
   }
   .proyectoImg01,
   .proyectoImg02,
@@ -62,27 +78,33 @@
     margin-bottom: 30px;
   }
 }
-@media only screen and (min-device-width: 375px) and (max-device-width: 720px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait) {
-  .projectsSpace {
-    display: block;
-  }
-  .projecto1,
-  .projecto2,
-  .projecto3,
-  .projecto4,
-  .projecto5,
-  .projecto6 {
-    width: 84%;
+@media only screen and (min-device-width: 720px) and (max-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait) {
+  .projectVideoPresentacion {
     margin-top: 10%;
   }
-
-  .reformasImg1,
-  .reformasImg2,
-  .reformasImg3,
-  .reformasImg4,
-  .reformasImg5,
-  .reformasImg6 {
+  .videoPresentacion {
     height: 250px;
+    width: auto;
+    margin-bottom: 30px;
+  }
+}
+@media only screen and (max-device-width: 370px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: landscape) {
+  .projectVideoPresentacion {
+    margin-top: 10%;
+  }
+  .videoPresentacion {
+    height: 250px;
+    width: auto;
+    margin-bottom: 30px;
+  }
+}
+@media only screen and (min-device-width: 375px) and (max-device-width: 720px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: landscape) {
+  .projectVideoPresentacion {
+    margin-top: 10%;
+  }
+  .videoPresentacion {
+    height: 250px;
+    width: auto;
     margin-bottom: 30px;
   }
 }
