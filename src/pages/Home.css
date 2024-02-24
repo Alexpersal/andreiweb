@@ -156,7 +156,7 @@
     height: 200px;
   }
   .texto-imagen {
-    top: 38%;
+    top: 34%;
     font-size: 18px;
   }
   .texto-Home h2 {
@@ -196,32 +196,35 @@
     margin-left: 30px;
   }
 }
-@media only screen and (min-device-width: 721px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait) {
+
+@media only screen and (min-device-width: 720px) and (max-device-width: 926px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait) {
   .texto-imagen {
     top: 25%;
-    font-size: 40px;
+    font-size: 30px;
   }
-}
-/*mobile Landscape */
-@media only screen and (max-device-width: 926px) and (max-device-height: 430px) and (-webkit-min-device-pixel-ratio: 3) and (orientation: landscape) {
-  .contenedor-imagenes,
-  .contenedor-proyectos {
-    width: 100%;
+  .contenedor-imagenes {
+    height: 200px;
+  }
+  .texto-Home h2 {
+    font-size: 16px;
+  }
+  .contenedor-proyectos p {
+    font-size: smaller;
   }
   .contenedor-reformas,
   .contenedor-steelframe {
     width: 100%;
+    margin: 30px;
   }
-
-  .texto-imagen {
-    top: 75%;
-    font-size: 30px;
+  .contenedor-proyectos {
+    display: block;
+    margin-left: 40px;
   }
-  .texto-Home h2 {
-    font-size: 22px;
-  }
-  .contenedor-proyectos p {
-    font-size: smaller;
+  .reformas-home,
+  .steelframe-home {
+    width: 84%;
+    height: 396px;
+    margin-bottom: 30px;
   }
   .contenedor-proyectos-reformas-descripcion {
     display: flex;
@@ -232,15 +235,193 @@
     display: flex;
     flex-flow: column;
   }
+  .contenedor-proyectos-reformas-textos,
+  .contenedor-proyectos-casas-textos {
+    width: 85%;
+    text-align: center;
+    margin-left: 27px;
+  }
+}
+@media only screen and (min-device-width: 926px) and (max-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait) {
+  .texto-imagen {
+    top: 20%;
+    font-size: 30px;
+  }
+  .contenedor-imagenes {
+    height: 200px;
+  }
+  .texto-Home h2 {
+    font-size: 16px;
+  }
+  .contenedor-proyectos p {
+    font-size: smaller;
+  }
+  .contenedor-reformas,
+  .contenedor-steelframe {
+    width: 100%;
+    margin: 30px;
+  }
+  .contenedor-proyectos {
+    display: block;
+    margin-left: 40px;
+  }
   .reformas-home,
   .steelframe-home {
-    margin-left: 10px;
-    margin-right: 40px;
+    width: 84%;
+    height: 396px;
+    margin-bottom: 30px;
+  }
+  .contenedor-proyectos-reformas-descripcion {
+    display: flex;
+    flex-flow: column-reverse;
+  }
+
+  .contenedor-proyectos-casas-descripcion {
+    display: flex;
+    flex-flow: column;
   }
   .contenedor-proyectos-reformas-textos,
   .contenedor-proyectos-casas-textos {
     width: 85%;
     text-align: center;
-    margin-left: 60px;
+    margin-left: 27px;
+  }
+}
+/*mobile Landscape */
+@media only screen and (max-device-width: 640px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: landscape) {
+  .contenedor-imagenes {
+    height: 200px;
+  }
+  .texto-imagen {
+    top: 80%;
+    font-size: 18px;
+  }
+  .texto-Home h2 {
+    font-size: 16px;
+  }
+
+  .contenedor-proyectos p {
+    font-size: smaller;
+  }
+  .contenedor-reformas,
+  .contenedor-steelframe {
+    width: 100%;
+    margin: 30px;
+  }
+  .reformas-home,
+  .steelframe-home {
+    width: 84%;
+    height: 360px;
+    margin-bottom: 30px;
+  }
+
+  .contenedor-proyectos-reformas-descripcion {
+    display: flex;
+    flex-flow: column-reverse;
+  }
+
+  .contenedor-proyectos-casas-descripcion {
+    display: flex;
+    flex-flow: column;
+  }
+  .contenedor-proyectos-reformas-textos,
+  .contenedor-proyectos-casas-textos {
+    width: 85%;
+    text-align: center;
+  }
+  .contenedor-proyectos-reformas-textos {
+    margin-left: 30px;
+  }
+}
+@media only screen and (min-device-width: 640px) and (max-device-width: 667px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: landscape) {
+  .contenedor-imagenes {
+    height: 200px;
+  }
+  .texto-imagen {
+    top: 80%;
+    font-size: 18px;
+  }
+  .texto-Home h2 {
+    font-size: 16px;
+  }
+
+  .contenedor-proyectos p {
+    font-size: smaller;
+  }
+  .contenedor-reformas,
+  .contenedor-steelframe {
+    width: 100%;
+    margin: 30px;
+  }
+  .reformas-home,
+  .steelframe-home {
+    width: 84%;
+    height: 360px;
+    margin-bottom: 30px;
+  }
+
+  .contenedor-proyectos-reformas-descripcion {
+    display: flex;
+    flex-flow: column-reverse;
+  }
+
+  .contenedor-proyectos-casas-descripcion {
+    display: flex;
+    flex-flow: column;
+  }
+  .contenedor-proyectos-reformas-textos,
+  .contenedor-proyectos-casas-textos {
+    width: 85%;
+    text-align: center;
+  }
+  .contenedor-proyectos-reformas-textos {
+    margin-left: 30px;
+  }
+}
+@media only screen and (min-device-width: 667px) and (max-device-width: 928px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: landscape) {
+  .contenedor-imagenes {
+    height: 200px;
+  }
+  .texto-imagen {
+    top: 80%;
+    font-size: 18px;
+  }
+  .texto-Home h2 {
+    font-size: 16px;
+  }
+  .contenedor-proyectos {
+    margin-left: 30px;
+  }
+  .contenedor-proyectos p {
+    font-size: smaller;
+  }
+  .contenedor-reformas,
+  .contenedor-steelframe {
+    width: 100%;
+    margin: 30px;
+  }
+  .reformas-home,
+  .steelframe-home {
+    width: 86%;
+    height: 360px;
+  }
+
+  .contenedor-proyectos-reformas-descripcion {
+    display: flex;
+    flex-flow: column-reverse;
+  }
+
+  .contenedor-proyectos-casas-descripcion {
+    display: flex;
+    flex-flow: column;
+    margin-left: 30px;
+  }
+  .contenedor-proyectos-reformas-textos,
+  .contenedor-proyectos-casas-textos {
+    width: 85%;
+    text-align: center;
+  }
+  .contenedor-proyectos-reformas-textos {
+    margin-left: 30px;
   }
 }
