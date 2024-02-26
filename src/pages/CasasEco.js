@@ -24,10 +24,10 @@ export default function CasasEco() {
             <div className="casasImg2"></div>
           </div>
           <p>
-            Creamos viviendas prefabricadas unifamiliares con un sistema
+            Creamos viviendas industrializadas unifamiliares con un sistema
             innovador y ecológico: <br></br>
             <br></br>
-            <strong>SteelFrame.</strong> <br></br>
+            <strong>STEEL FRAME.</strong> <br></br>
             <br></br>Con este método, podemos adaptarnos a tus gustos y
             preferencias, sin importar lo que sueñes para tu nuevo hogar. Tú nos
             cuentas cómo lo quieres y nosotros lo hacemos realidad. En este tipo
@@ -86,8 +86,8 @@ export default function CasasEco() {
           <p>
             En nuestra empresa, nos dedicamos a hacer realidad los sueños de
             tener un hogar perfecto. Nos enfocamos en la construcción de
-            viviendas prefabricadas unifamiliares utilizando el sistema
-            constructivo de steelframe, garantizando un hogar cómodo y seguro.
+            viviendas industrializadas unifamiliares utilizando el sistema
+            constructivo de Steel Frame, garantizando un hogar cómodo y seguro.
             Durante la fase de cimentación, utilizamos casetones prefabricados
             para formar un forjado sanitario. Este método asegura un excelente
             aislamiento para su hogar, ya que evita el contacto directo con el

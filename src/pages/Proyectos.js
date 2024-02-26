@@ -79,11 +79,11 @@ export default function Proyectos() {
             Te asesoraremos y te ayudaremos a crear la vivienda de tus sueños,
             con la mejor relación calidad-precio del mercado, estamos seguros de
             que quedarás satisfecho con nuestro trabajo y con tu nueva vivienda
-            unifamiliar prefabricada con sistema constructivo Steelframe.
+            unifamiliar industrializada con sistema constructivo Steel Frame.
           </h2>
           <h2>
             Aquí podrás ver algunos ejemplos de las viviendas unifamiliares
-            prefabricadas con sistema constructivo Steelframe que hemos
+            industrializadas con sistema constructivo Steel Frame que hemos
             construido, puedes visitar nuestra galería de proyectos, donde
             encontrarás imágenes y descripciones de cada uno de ellos.
           </h2>
@@ -96,78 +96,47 @@ export default function Proyectos() {
               className="proyectoImg01"
             ></Carousel>
           </div>
-
           <p>
-            Contamos con un equipo cualificado que se encarga de ejecutar los
-            proyectos de la manera más eficiente posible, tanto en tiempo como
-            en forma . <br></br>
-            Le acompañamos en todo el proceso, desde la conceptualización de la
-            reforma hasta la entrega de llaves a su finalización. Nuestros
-            técnicos le podrán realizar propuestas de interiorismo y si lo desea
-            la confección de planos e imágenes realistas para que en todo
-            momento sepa cómo será su futura vivienda, incluso antes de empezar
-            la obra.
+            Casa unifamiliar de dos plantas de unos 185 m2 útiles.<br></br>{" "}
+            Alternando sistema constructivo steel frame con estructura laminada
+            consiguiendo asi grandes luces y espacios interiores abiertos.
           </p>
         </div>
         <div className="projecto1">
           <h3>Vivienda unifamiliar Cardedeu</h3>
           <Carousel images={carouselImages2}></Carousel>
           <p>
-            Tenemos gran experiencia en este tipo de trabajos cumpliendo con sus
-            pliegues de condiciones en cada caso. Hemos realizado tiendas tanto
-            en plantas bajas de edificios plurifamiliares como en centros
-            comerciales acogiéndonos a sus condiciones y demandas. Nos adaptamos
-            a cualquier tipo de necesidad del cliente, realizando trabajos
-            nocturnos para no afectar el buen funcionamiento de la actividad en
-            cuestión. Tenemos un técnico en plantilla que organiza y dirige todo
-            el proceso y sus oficios, que junto a nuestra red de expertos
-            colaboradores para los trabajos más específicos, conseguimos
-            excelentes resultados y acabados.
+            Vivienda unifamiliar con piscina de una sola planta de unos 145 m2
+            útiles.<br></br> Bonito diseño con aplacado de madero en algunos
+            volumenes de su exterior dándole calidez.
           </p>
         </div>
         <div className="projecto1">
           <h3>Vivienda unifamiliar Castellet i la Gornal</h3>
           <Carousel images={carouselImages3}></Carousel>
           <p>
-            Rehabilitamos todo tipo de fachadas, abarcando todas aquellas
-            técnicas que nos avalan para desarrollar las intervenciones que
-            corresponden a cada tipo de fachada, ( fachadas ventiladas,
-            revestimientos, sistema SATE, aplacados de piedra artificial,
-            porcelánicos, morteros a la cal o convencionales ... ). <br></br>
-            En GRUP JCMA CALVO, sabemos que la calidad no es una opción, sino
-            una obligación, por ello siempre cumplimos estrictamente con todas
-            las medidas de Seguridad pertinentes, reflejadas en el Plan de
-            Seguridad supervisado por nuestros técnicos especializados y por la
-            Dirección Facultativa responsable del proyecto.
+            Vivienda unifamiliar aislada con piscina de unos 100 m2 útiles.
+            <br></br>
+            Bonito diseño en forma de "L" adaptándose a una perfetcta
+            orientacion solar.
           </p>
         </div>
         <div className="projecto1">
           <h3>Vivienda unifamiliar Sant Julià de Ramis</h3>
           <Carousel images={carouselImages5}></Carousel>
           <p>
-            Realizamos todo tipo de refuerzos estructurales según dictámenes de
-            la Dirección Facultativa. Desde los sistemas tradicionales hasta los
-            más actuales tipo Mecanoviga, Cointecs o similares, así como
-            actuaciones en todo tipo de patología estructural (aluminosis,
-            desintegración de vigas de madera, oxidación vigas metálicas etc. )
-            Al tratarse de trabajos especialmente delicados, los realizamos
-            siempre siguiendo las indicaciones de arquitectos especializados y
-            respetando escrupulosamente todas las medidas de seguridad,
+            vivienda unifamiliar aislada de unos 135 m2 útiles.<br></br>{" "}
+            Actualmente en construcción trabajos contratados estructuira steel
+            frame y envoltorios exteriores.
           </p>
         </div>
         <div className="projecto1">
           <h3>Vivienda unifamiliar Lliçà</h3>
           <Carousel images={carouselImages4}></Carousel>
           <p>
-            Los trabajos en patios interiores, se ejecutan mediante diferentes
-            técnicas específicas o combinadas, dependiendo de la complejidad de
-            cada caso en particular, ya sea con estructuras andamio tubular,
-            puente colgante o trabajos verticales. Cualquiera que sea su
-            necesidad, estaremos ahí para ayudarle a solucionar complejos
-            trabajos como pueden ser cambios de bajantes, montantes de agua y
-            gas con certificado, reparaciones en paramentos, cosido de grietas,
-            aplicación de morteros especiales de reparación, trabajos de
-            pintura, sustitución de claraboyas ...
+            vivienda unifamiliar aislada de unos 175 m2 útiles.<br></br>{" "}
+            Actualmente en construcción trabajos contratados estructura steel
+            frame y envoltorios exteriores.
           </p>
         </div>
 
@@ -175,30 +144,15 @@ export default function Proyectos() {
           <h3>Vivienda unifamiliar Tàrrega</h3>
           <Carousel images={carouselImages6}></Carousel>
           <p>
-            Realizamos todo tipo de refuerzos estructurales según dictámenes de
-            la Dirección Facultativa. Desde los sistemas tradicionales hasta los
-            más actuales tipo Mecanoviga, Cointecs o similares, así como
-            actuaciones en todo tipo de patología estructural (aluminosis,
-            desintegración de vigas de madera, oxidación vigas metálicas etc. )
-            Al tratarse de trabajos especialmente delicados, los realizamos
-            siempre siguiendo las indicaciones de arquitectos especializados y
-            respetando escrupulosamente todas las medidas de seguridad,
+            Vivienda unifamiliar aislada de unos 145 m2.<br></br> Vienda
+            realizada con todas las mejoras constructivas ( placas
+            fotovoltaicas, forjaqdo sanitario aerotermia, suelo radiante ... )
           </p>
         </div>
         <div className="projecto1">
           <h3>Vivienda unifamiliar Igualada</h3>
           <div className="proyectoImg04"></div>
-          <p>
-            Las intervenciones en las cubiertas de los edificios son muy
-            diversas y nosotros, en nuestra dilatada experiencia de más de 18
-            años que nos avalan, hemos podido realizar cada una de ellas. Desde
-            la restauración total mediante la impermeabilización con los
-            distintos materiales homologados, empezando por los más
-            tradicionales como la tela asfáltica o la auto protegida hasta los
-            más innovadores como las imprimaciones de poliuretanos o la
-            poliurea. Realizamos cubiertas invertidas y tradicionales
-            consiguiendo el aislamiento térmico deseado.
-          </p>
+          <p>Vivienda unifamiliar aislada de unos 155 m2 útiles.</p>
         </div>
       </div>
     </>

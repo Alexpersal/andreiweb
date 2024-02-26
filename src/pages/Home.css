@@ -104,16 +104,16 @@
   }
 }
 /*mobile Portrait */
-@media only screen and (max-device-width: 370px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait) {
+@media only screen and (max-device-width: 375px) and (orientation: portrait) {
   .contenedor-imagenes {
     height: 200px;
   }
   .texto-imagen {
-    top: 40%;
-    font-size: 18px;
+    top: 52%;
+    font-size: 15px;
   }
   .texto-Home h2 {
-    font-size: 16px;
+    font-size: 15px;
   }
   .contenedor-proyectos p {
     font-size: smaller;
@@ -150,6 +150,7 @@
     margin-left: 30px;
   }
 }
+
 /*mobile Portrait */
 @media only screen and (min-device-width: 375px) and (max-device-width: 720px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait) {
   .contenedor-imagenes {

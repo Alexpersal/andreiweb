@@ -66,7 +66,7 @@ export default function Reformas() {
           <h3>CUBIERTAS</h3>
           <div className="reformasImg4"></div>
           <p>
-            Llevamos más de 18 años en el sector, y hemos realizado todo tipo de
+            Llevamos más de 15 años en el sector, y hemos realizado todo tipo de
             proyectos, nos dedicamos a la rehabilitación de cubiertas y tejados
             con pasión y profesionalidad, hemos realizado todo tipo de
             proyectos, adaptándonos a las necesidades y preferencias de cada

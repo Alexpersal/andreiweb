@@ -52,15 +52,17 @@ function Home() {
       </div>
       <div className="texto-Home">
         <h2>
-          En BENTSA nos dedicamos a la{" "}
+          En OBRAS INTEGRELES BENTSA nos dedicamos a la{" "}
           <strong>construcción industrializada y sostenible</strong>
-          desde hace más de 15 años por toda la zona de Cataluña. Nuestra
-          especialidad es el sistema <strong>Steel Frame</strong>, que nos
-          permite crear viviendas unifamiliares y plurifamiliares de alta
-          calidad y de bajo impacto ambiental.<br></br> Contamos con un equipo
-          propio de operarios expertos en cada fase de la obra, y con un equipo
-          de técnicos colaboradores que nos apoyan en el estudio y el diseño de
-          los proyectos. <br></br>
+          desde hace más de 15 años y concretamente a la construcción
+          industrializada y sostenible desde hace mas de 8 años por toda la zona
+          de Cataluña. Nuestra especialidad es el sistema{" "}
+          <strong>Steel Frame</strong>, que nos permite crear viviendas
+          unifamiliares y plurifamiliares de alta calidad y de bajo impacto
+          ambiental.<br></br> Contamos con un equipo propio de operarios
+          expertos en cada fase de la obra y con un equipo de técnicos
+          colaboradores que nos apoyan en el estudio y el diseño de los
+          proyectos. <br></br>
           <br></br>Hacemos <strong>reformas</strong> y{" "}
           <strong>rehabilitaciones</strong> de todo tipo, trabajando con
           promotores y administradores de fincas de confianza, por toda la
@@ -87,17 +89,17 @@ function Home() {
             <h2>REFORMAS INTEGRALES </h2>
 
             <p>
-              En BENTSA nos preocupamos por el medio ambiente y por tu bienestar
-              sin dejar de un lado la calidad y los resultados deseados. Por
-              eso, te ofrecemos las mejores soluciones para reformar tu casa o
-              tu negocio, aprovechando al máximo los recursos, cuidando el
-              ecosistema y garantizando la exceléncia. Deja en nuestras manos tu
-              nuevo proyecto, te acompañaremos en todo el proceso, desde el
-              diseño hasta la ejecución, para que tu espacio se adapte a tus
-              gustos y necesidades. Así, conseguirás un espacio que respete el
-              planeta, que te haga sentir bien y que ahorre energía. ¿A qué
-              esperas? ¡Contacta con nosotros y te daremos un presupuesto sin
-              compromiso!”
+              En OBRAS INTEGRELES BENTSA nos preocupamos por el medio ambiente y
+              por tu bienestar sin dejar de un lado la calidad y los resultados
+              deseados. Por eso, te ofrecemos las mejores soluciones para
+              reformar tu casa o tu negocio, aprovechando al máximo los
+              recursos, cuidando el ecosistema y garantizando la exceléncia.
+              Deja en nuestras manos tu nuevo proyecto, te acompañaremos en todo
+              el proceso, desde el diseño hasta la ejecución, para que tu
+              espacio se adapte a tus gustos y necesidades. Así, conseguirás un
+              espacio que respete el planeta, que te haga sentir bien y que
+              ahorre energía. ¿A qué esperas? ¡Contacta con nosotros y te
+              daremos un presupuesto sin compromiso!”
             </p>
           </div>
         </div>
@@ -105,11 +107,11 @@ function Home() {
           <div className="contenedor-proyectos-casas-textos">
             <h2>VIVIENDAS INDUSTRIALIZADAS</h2>
             <p>
-              En BENTSA sabemos que hacer realidad tu proyecto, alcanzar tu
-              sueño y se ajuste a tus necesidades, no es fácil. Por eso, te
-              ofrecemos nuestro apoyo, nuestra profesionalidad y nuestra
+              En OBRAS INTEGRELES BENTSA sabemos que hacer realidad tu proyecto,
+              alcanzar tu sueño y se ajuste a tus necesidades no es fácil. Por
+              eso, te ofrecemos nuestro apoyo, nuestra profesionalidad y nuestra
               experiencia en cada paso del proceso. Nos gusta adaptarnos a ti, a
-              tu caso y a tus estilo de vida. Queremos que vivas una experiencia
+              tu caso y a tu estilo de vida. Queremos que vivas una experiencia
               positiva y que disfrutes del resultado final. Por eso, buscamos
               siempre las mejores tecnologías, soluciones y sistemas
               constructivos, que respeten el medio ambiente, que sean
