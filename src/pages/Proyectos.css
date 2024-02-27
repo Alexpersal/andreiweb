@@ -43,7 +43,7 @@
   background-image: url("../Imagenes/Proyectos/Igualada/igualada01.webp");
 }
 
-@media only screen and (max-device-width: 370px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait) {
+@media only screen and (max-device-width: 375px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait) {
   .projectsSpace {
     display: block;
   }
@@ -78,7 +78,36 @@
     margin-bottom: 30px;
   }
 }
-@media only screen and (min-device-width: 720px) and (max-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait) {
+@media only screen and (min-device-width: 376px) and (max-device-width: 720px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait) {
+  .projecto1,
+  .projecto2,
+  .projecto3,
+  .projecto4,
+  .projecto5,
+  .projecto6 {
+    width: 84%;
+    margin-top: 10%;
+  }
+  .proyectoImg01,
+  .proyectoImg02,
+  .proyectoImg03,
+  .proyectoImg04,
+  .proyectoImg05,
+  .proyectoImg06,
+  .proyectoImg07 {
+    height: 250px;
+    margin-bottom: 30px;
+  }
+  .projectVideoPresentacion {
+    margin-top: 10%;
+  }
+  .videoPresentacion {
+    height: 250px;
+    width: 100%;
+    margin-bottom: 30px;
+  }
+}
+@media only screen and (min-device-width: 721px) and (max-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait) {
   .projectVideoPresentacion {
     margin-top: 10%;
   }
@@ -88,7 +117,7 @@
     margin-bottom: 30px;
   }
 }
-@media only screen and (max-device-width: 370px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: landscape) {
+@media only screen and (max-device-width: 374px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: landscape) {
   .projectVideoPresentacion {
     margin-top: 10%;
   }
@@ -106,5 +135,13 @@
     height: 250px;
     width: auto;
     margin-bottom: 30px;
+  }
+  .proyectoImg04 {
+    height: 286px;
+  }
+}
+@media only screen and (min-device-width: 721px) and (max-device-width: 932px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: landscape) {
+  .proyectoImg04 {
+    height: 286px;
   }
 }

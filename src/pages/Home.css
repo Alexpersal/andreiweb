@@ -109,7 +109,7 @@
     height: 200px;
   }
   .texto-imagen {
-    top: 52%;
+    top: 45%;
     font-size: 15px;
   }
   .texto-Home h2 {
@@ -152,12 +152,12 @@
 }
 
 /*mobile Portrait */
-@media only screen and (min-device-width: 375px) and (max-device-width: 720px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait) {
+@media only screen and (min-device-width: 376px) and (max-device-width: 720px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait) {
   .contenedor-imagenes {
     height: 200px;
   }
   .texto-imagen {
-    top: 34%;
+    top: 35%;
     font-size: 18px;
   }
   .texto-Home h2 {
@@ -198,7 +198,7 @@
   }
 }
 
-@media only screen and (min-device-width: 720px) and (max-device-width: 926px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait) {
+@media only screen and (min-device-width: 721px) and (max-device-width: 926px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait) {
   .texto-imagen {
     top: 25%;
     font-size: 30px;
@@ -243,7 +243,7 @@
     margin-left: 27px;
   }
 }
-@media only screen and (min-device-width: 926px) and (max-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait) {
+@media only screen and (min-device-width: 927px) and (max-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait) {
   .texto-imagen {
     top: 20%;
     font-size: 30px;
@@ -334,7 +334,7 @@
     margin-left: 30px;
   }
 }
-@media only screen and (min-device-width: 640px) and (max-device-width: 667px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: landscape) {
+@media only screen and (min-device-width: 641px) and (max-device-width: 667px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: landscape) {
   .contenedor-imagenes {
     height: 200px;
   }
@@ -379,7 +379,7 @@
     margin-left: 30px;
   }
 }
-@media only screen and (min-device-width: 667px) and (max-device-width: 928px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: landscape) {
+@media only screen and (min-device-width: 668px) and (max-device-width: 928px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: landscape) {
   .contenedor-imagenes {
     height: 200px;
   }
