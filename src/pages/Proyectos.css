@@ -141,6 +141,14 @@
   }
 }
 @media only screen and (min-device-width: 721px) and (max-device-width: 932px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: landscape) {
+  .projectVideoPresentacion {
+    margin-top: 10%;
+  }
+  .videoPresentacion {
+    height: 250px;
+    width: auto;
+    margin-bottom: 30px;
+  }
   .proyectoImg04 {
     height: 286px;
   }
