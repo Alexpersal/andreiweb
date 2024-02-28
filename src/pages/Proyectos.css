@@ -46,6 +46,7 @@
 @media only screen and (max-device-width: 375px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait) {
   .projectsSpace {
     display: block;
+    margin-left: 12%git;
   }
   .projectsSpace p {
     font-size: 14px;
